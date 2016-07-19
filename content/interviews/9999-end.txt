@@ -4,7 +4,7 @@
 
 \vspace*{\fill}
 
-Version 0.0 edited July 2016
+Version 0.1 edited July 19 2016
 
 Greyscale Press
 

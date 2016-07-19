@@ -5,16 +5,18 @@ Interview with Dave Crossland about the floss type design ecosystem, recorded Ap
 on FontForge   
 Metapolator   
 font bakery  
-type testing tool
+type testing tool   
+...
 
 ## FontForge 
 
 So, George Williams started FontForge[^fontforge]. 
+
 From his perspective, it was technically complete. This is similar to the way Inkscape emerged from Sodipodi. The Sodipodi developer, as I understand the story, was very much involved in the technical development of the SVG editor. 
 Things which were mathematically interesting for him to develop, but it wasn't really focussed on making a tool for end users.
 
-[^fontforge]: http://fontforge.github.io/
-    https://github.com/fontforge/fontforge  
+[^fontforge]: http://fontforge.github.io/   
+    https://github.com/fontforge/fontforge   
     License: GPLv3+  
 
 **M:** That was the person who developed **Spiro**?
@@ -33,7 +35,7 @@ A couple of years ago, I was looking on **FontForge** in a similiar light. I was
 It's technically very complete, but for new users, it has a lot of rough edges.
 
 And so, it's not much effort to polish that up. So, similar to Inkscape, we did the key bindings system, so that all of the hotkeys are defined in one simple text file.
-The most recent workshop I ran was at a design school in Sweden called (((Hypo))) Island, and obviously most of the students there had swedish keyboards, and so the US keyboard of the FontForge native package wasn't working for them. And so, it was very easy to take minutes, and step the class through shutting down FontForge, opening the MacOSX application bundle, navigating to the text file where the hotkeys are defined, and editing the hotkeys.
+The most recent workshop I ran was at a design school in Sweden called Hyper Island, and obviously most of the students there had swedish keyboards, and so the US keyboard of the FontForge native package wasn't working for them. And so, it was very easy to take minutes, and step the class through shutting down FontForge, opening the MacOSX application bundle, navigating to the text file where the hotkeys are defined, and editing the hotkeys.
 
 ## realtime collaboration mode
 
@@ -45,14 +47,11 @@ This is the irony, everyone's like "Wow, Fontforge is so much better than two ye
 
 One of the bigger things is that we packaged it for Mac OSX, and we also packaged it for Windows, although I haven't really been promoting the Windows version yet. So the packaging was kind of a big deal. 
 
-### Realtime collaboration mode
-
 And then, about a year and a half ago, I proposed to add a major feature to Fontforge, to see how that would go. So we added this realtime collaboration feature, which hijacks the undo system, and uses the ZeroMQ library to basically broadcast the undo stack across a network, so that people can have a realtime collaboration experience. If you set it up right, then it works very well. We polished it up a little bit after the LGM 2013, but we didn’t really make it rock solid.
 
 This threw up all kinds of problems, it crashed a lot, it was pretty difficult for Dr Ben Martin to develop. He has a PhD in computer science, and he could do it. But there's very few other people in the world, comparatively, wo can contribute to that codebase. So it's been a bit of a dead end, because if I can raise money, through running workshops or other means, to fund development, then it's ok. But that's relatively difficult to do. Whereas, if it was a web application, then there's millions times more people who have web development skills, and who will also be users of a font editor. Not every user has development skills, but enough users would have those skills, and would be able to contribute directly to the improvement of the editor. 
 
-So I considered, after Madrid, (())
-We had a working basic prototype level, so I could the demo on stage, and it basically works. We polished it up a little bit after the LGM last year, but we didn't really make it rock solid. 
+So I considered, after Madrid, ((...)) We had a working basic prototype level, so I could do the demo on stage, and it basically works. We polished it up a little bit after the LGM last year, but we didn't really make it rock solid. 
 
 After LGM last year, I met Simon Egli. Simon and I had been discussing about that previous **Metaflop** project, which had been developed by some other people in Zurich. I had also done quite a lot of research into Metafont, when I was a student at University of Reading, and I had abandonned my experiment with Metafont, when I was a student, because it was taking too long. I didn't end up with anything practical. 
 
@@ -74,7 +73,7 @@ Font editors have often been plagued by this, and Fontographer and Fontlab have 
 
 I'm very keen to not see that happen to FontForge. So, the way I see the development proceeding, over this year and next year, is that we are developing *plugins* for FontForge, for additional functionality.
 
-### FontForge Plugins
+## FontForge Plugins
 
 Making a completely new font editor from scratch has this dilemma that you need all this functionality that is in FontForge, but at the same time, you want the new interface, to do what the new interface can do. To run these things concurrently is ideal.
 

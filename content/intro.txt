@@ -10,9 +10,9 @@ Cover designed with Scribus
 
 Typefaces\\*
 Cover:\\*
-TBD\\*  
+Bagnard, by Sebastien Sanfilippo\\*  
 Interior:\\*
-HK Serif, by Alfredo Marco Pradil
+HK Serif and HK Sans Pro, by Alfredo Marco Pradil
 
 Greyscale Press\\*
-ISBN-13: 978-2-XXX
+ISBN-13: 978-2-940561-03-2

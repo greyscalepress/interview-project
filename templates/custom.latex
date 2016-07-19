@@ -225,22 +225,25 @@ $endfor$
 {0pt} % sep - horizontal separation between label and title body
 {} % code preceding the title body
 
-\titleformat{\section}[display]{\sffamily\Large\raggedright}{}{0pt}{}
-
 \titleformat{\part}[display]{\sffamily\Huge\raggedright}{}{0pt}{}
+
+\titleformat{\section}[display]{\sffamily\Large}{}{0pt}{}
 
 % \titleformat{\section}{\color{teal}\LARGE\raggedright}{\hspace{0.5cm}\thetitle\‌​hspace{0.5cm}}{0cm}{}
 
 \titlespacing*{\chapter}
 {0pt} % increases the left margin.
 {0pt} % the vertical space before the title.
-{0pt} % the separation between title and non-sectioning text
+{20pt} % the separation between title and non-sectioning text
 [0pt]
 
 % The starred version of this command kills the indentation of the paragraph following the title.
 
-\titlespacing*{\section}{0pt}{0pt}{0pt}[0pt]
+\titlespacing*{\section}{-0pt}{15pt}{10pt}[0pt]
 
+% captions
+
+\usepackage[labelformat=empty]{caption}
 
 \pagestyle{fancy}
 \renewcommand{\chaptermark}[1]{ \markboth{#1}{} }

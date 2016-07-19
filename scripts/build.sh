@@ -7,7 +7,7 @@
 
 ## 1: We declare some variables
 
-INPUT="../content/meta.txt ../content/interviews/*.* ../content/talks/*.*" 
+INPUT="../content/meta.txt ../README.md ../content/interviews/*.* ../content/talks/*.*" 
 TEMP="../temp/newfile.txt"
 
 TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)
@@ -57,7 +57,7 @@ END {
 pandoc -f markdown --template=../templates/custom $TEMP \
 	--latex-engine=xelatex \
     --variable mainfont="HKSerif-Regular" \
-    --variable boldfont="HKGroteskPro-Bold" \
+    --variable boldfont="HKSerif-SemiBold" \
     --variable italicfont="HKSerif-Italic" \
     --variable sansfont="HK Grotesk Pro" \
     --variable fontsize=9pt \
