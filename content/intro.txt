@@ -1,0 +1,18 @@
+\thispagestyle{empty}
+
+\vspace*{\fill}
+
+The first version of this book (0.0)\\*
+was created in July 2016 
+
+Built with Markdown, Pandoc and TeX\\*
+Cover designed with Scribus
+
+Typefaces\\*
+Cover:\\*
+TBD\\*  
+Interior:\\*
+HK Serif, by Alfredo Marco Pradil
+
+Greyscale Press\\*
+ISBN-13: 978-2-XXX

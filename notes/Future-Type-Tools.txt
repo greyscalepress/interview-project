@@ -1,0 +1,53 @@
+# Future Type Tools
+
+A view of new and upcoming type design tools, gathered during a conversation with Dave Crossland
+
+## FontForge News
+http://fontforge.github.io/
+https://github.com/fontforge/fontforge
+License: GPLv3+
+
+### UFO support
+That’s a big thing we have been working on since the LGM of 2013: the UFO support in FontForge. It’s working a lot better than it used to. And we started to implement UFO version 3, which at the moment still isn’t supported by any other font editors.
+
+### Plugins
+Lasse Fister has developed iPython as a plugin for FontForge, so that you can do interactive scripting development, while running FontForge.
+Then Juraj Sukop has developed *Even*, which is a very simple little Qt IDE, very similar to the classic *NodeBox* or *DrawBot*, where you have a three-paned window, with input, output and display. It can be used to produce test document PDFs from withing FontForge.
+So we now have GTK and Qt plugins bundled with FontForge. Therefore, it’s possible to develop functionality for FontForge, using either GTK, or Qt, or the web, as your toolkit.
+What I would like to see, over the next year or two, is to replace the FontForge user interface by web or Qt or GTK plugins. 
+
+### Realtime collaboration mode
+
+About a year and a half ago, I proposed to add a major feature to FontForge, to see how that would go. So we added this realtime collaboration feature, which hijacks the undo system, and uses the ZeroMQ library to basically broadcast the undo stack across a network, so that people can have a realtime collaboration experience. If you set it up right, then it works very well. We polished it up a little bit after the LGM 2013, but we didn’t really make it rock solid.
+
+One of the things that we did, at the LGM, and at the Interactivos workshop, the week after the LGM in Madrid, was to work on a web interface to FontForge. The way that this worked in the collaboration mode was that, everytime someone in the collaboration session does something, if the font is in a buildable state, then the font is built – and pushed, using web sockets, to a web page. So that you have a live *web-document preview* of your typeface, as you’re developing it.
+
+**And that leads me to the conclusion that we should be writing web based font editors. **
+
+
+LINKS:
+
+**Metapolator**  
+version: 0.1.0  
+http://metapolator.com/  
+https://github.com/metapolator/metapolator  
+License: GPLv3
+
+**TTFautohint**  
+http://freetype.org/ttfautohint/  
+License: GPLv2 and FreeType License (FTL)
+
+**Kernagic (pronouced ‘Kemagic’)**  
+A semi-automatic tool for spacing fonts.  
+License: GPLv3+  
+https://github.com/hodefoting/kernagic
+
+
+**Font Bakery**  
+License: Apache 2.0 License  
+https://github.com/googlefonts/fontbakery
+
+
+
+**Version control**
+

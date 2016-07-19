@@ -1,0 +1,11 @@
+\afterpage{\null\thispagestyle{empty}\newpage}
+
+\thispagestyle{empty}
+
+\vspace*{\fill}
+
+Version 0.0 edited July 2016
+
+Greyscale Press
+
+\afterpage{\null\thispagestyle{empty}\newpage}
