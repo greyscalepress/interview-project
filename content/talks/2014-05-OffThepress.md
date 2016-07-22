@@ -218,4 +218,10 @@ That’s the main points. Thank you.
 
 [applause]
 
+## Reviews
+
+by Arie Altena, in: *Off the Press, Report I*, May 25 2014, http://ariealt.net/2014/05/25/off-the-press-report-i/
+
+“The last presentation I see is by Greyscales’ Manuel Schmalstieg – *Black Holes in the Gutenberg Galaxy*. He starts with the idea of the flip-flop: going from digital to analog and back. He made a couple of printed editions, sometimes pirated – for instance Neal Stephenson’s essay from Wired on the undersea cable, with new illustrations. He aggregated a novel from texts written by various ghost writers. He made the edition ‘In Conversation with Julian Assange.’ Some of these book remained undercover, as they were pirate editions, and rights were not acquired. His most successful publication is a book with transcriptions of talks by Jacob Appelbaum, – a book which can be added to every time a new talk is transcribed. He ends with on overview of spam publishing – which very nicely complements the presentation by TraumaWien.”
+
 ***

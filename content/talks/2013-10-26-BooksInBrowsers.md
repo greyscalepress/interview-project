@@ -2,7 +2,9 @@
 
 **Abstract:**
 
-Would a time-traveling author from the past centuries stumble upon our everyday read/write tools, he would envision a techno-utopia that allows anyone to act as an archivist, librarian, content curator, or publisher. But the electronic publishing disruption comes with a couple of side-effects: print-on-demand spam is sneaking into our search queries, massively distributed authorship is taking the infinite monkey theorem at face value, while a generation of writers is turning SEO-aware.   In that context, Greyscale Press – a post-digital publishing house – is crafting book-like artifacts, merging the toolsets inherited from 20th century modernist avantgardes, post-structuralism, the free software and copyleft movement, up to the latest crop of crypto- and cypherpunk activists.
+Would a time-traveling author from the past centuries stumble upon our everyday read/write tools, he would envision a techno-utopia that allows anyone to act as an archivist, librarian, content curator, or publisher. But the electronic publishing disruption comes with a couple of side-effects: print-on-demand spam is sneaking into our search queries, massively distributed authorship is taking the infinite monkey theorem at face value, while a generation of writers is turning SEO-aware. 
+
+In that context, Greyscale Press – a post-digital publishing house – is crafting book-like artifacts, merging the toolsets inherited from 20th century modernist avantgardes, post-structuralism, the free software and copyleft movement, up to the latest crop of crypto- and cypherpunk activists.
 
 **Transcript:**
 
@@ -14,7 +16,7 @@ This is an amazing book by [video cuts out]
 
 [Video resumes] doesn't necessarily have to be a vanity press 2.0, but you can very well react to political events in the world, and you can put meaning into this.
 
-This is a recent project that was done earlier this year in Geneva with students, and the objective was to make a useful book for graphic designers working with *libre* open source fonts. So this is a specimen book designed entirely by students during one week of work, using the book sprint methodology that Adam Hyde, who is in this room, is pioneering across the world.
+This is a recent project that was done earlier this year in Geneva with students, and the objective was to make a useful book for graphic designers working with libre / open source fonts. So this is a specimen book designed entirely by students during one week of work, using the book sprint methodology that Adam Hyde, who is in this room, is pioneering across the world.
 
 After the workshop, the book has been put on Amazon. Anybody can order it [video cuts out]
 
@@ -46,21 +48,21 @@ The last thing is that big book industries now have print-on-demand built in. Am
 
 So, the print-on-demand spammer actually abuses those four cornerstones and exploits the system in a brilliant way.
 
-Those books, unbelievably, have been infiltrating academia. You can find them in all university libraries around the world. Here in Switzerland I made a quick search. I found that there were 25 books by the publisher Alphascript about various topics: the judicial system of the People's Republic of China for instance or the legal history of China. So, those are printed Wikipedia articles on the shelf of that University. I borrowed some of those books from the University, and I brought them to the tombstone of Jorge Louise Borges in the hope [video cuts out]
+Those books, unbelievably, have been infiltrating academia. You can find them in all university libraries around the world. Here in Switzerland I made a quick search. I found that there were 25 books by the publisher Alphascript about various topics: *the judicial system of the People's Republic of China* for instance or *the legal history of China*. So, those are printed Wikipedia articles on the shelf of that University. I borrowed some of those books from the University, and I brought them to the tombstone of Jorge Louise Borges in the hope [video cuts out]
 
 [Video resumes] happening in our century.
 
-It also means that the people who acquired those books failed the spam detection test. We all know the CAPTCHAs that we encounter every day on the web, so those are the touring tests that [video cuts out]
+It also means that the people who acquired those books failed the spam detection test. We all know the CAPTCHAs that we encounter every day on the web, so those are the Turing tests that [video cuts out]
 
 [Video resumes] thing is human-made or bot-made.
 
 Now, what has Amazon done to counter this? I noticed that recently they managed to decrease the number of spam books in their database. They took countermeasures, and they have started to eliminate those books.
 
-I had one interesting experience with this project. This was a book that I made. Again, with the original book sprint technology, I gathered a team during an art festival who was working during five days and producing an improved Wikipedia article on the art form of audiovisual performance (aka VJing). After one week of editing, we had a large article that we printed in book form, and I attempted later on to place this book also on Amazon through their print-on-demand service. After I submitted this, I received an answer that the title had been blocked and couldn't be published because the content was against the Terms of Service of Amazon create [video cuts out]
+I had one interesting experience with this project. This was a book that I made. Again, with the original book sprint technology, I gathered a team during an art festival who was working during five days and producing an improved Wikipedia article on the art form of audiovisual performance (aka VJing). After one week of editing, we had a large article that we printed in book form, and I attempted later on to place this book on Amazon through their print-on-demand service. After I submitted this, I received an answer that the title had been blocked and couldn't be published because the content was against the Terms of Service of Amazon CreateSpace [video cuts out]
 
-[Video resumes] you have to hold the exclusive rights, and the content shouldn't be available on the web. Or, in the original terms, we will not accept content that is freely available on the web unless you are the copyright owner of that content. The way it is phrased is interesting because the first part of the sentence has more weight. The freely available on the web content, by default, is banned unless you can prove that you are the copyright owner, and they insisted it should be exclusive rights. This is intriguing, and I think there would be many reactions here that would question the usefulness of this rule.
+[Video resumes] you have to hold the exclusive rights, and the content shouldn't be available on the web. Or, in the original terms, "we will not accept content that is freely available on the web unless you are the copyright owner of that content". The way it is phrased is interesting because the first part of the sentence has more weight. The "freely available on the web" content, by default, is banned unless you can prove that you are the copyright owner, and they insisted it should be exclusive rights. This is intriguing, and I think there would be many reactions here that would question the usefulness of this rule.
 
-I think I'm reaching the send of my presentation and [video cuts out]
+I think I'm reaching the end of my presentation and [video cuts out]
 
 [Video resumes] it’s a bit too early in the morning, and I'm a practitioner and I'm saying thank you therefore.
 

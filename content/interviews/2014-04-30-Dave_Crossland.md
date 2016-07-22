@@ -27,8 +27,6 @@ He made a program called **Gill**, as in Eric Gill, which was the "Gnome Illustr
 
 So, when Raph moved on, and got into his PhD, I think he was working around this time on his first PhD, which was on *"Attack-Resistant Trust Metrics"*. And he dropped these projects, stopped developing them.
 
-He had a little web browser, called "Delo". 
-
 **Gill**, the SVG editor which he developed, was taken up by Lauris Kaplinski, I believe in Russia, and it was called **Sodipodi**. And then, there was some Americans, who wanted to make the program more user-friendly: key bindings, actually they removed some functionality ... this kind of thing.
 
 A couple of years ago, I was looking on **FontForge** in a similiar light. I was going to start using FontForge to teach type design to beginners. 
@@ -79,7 +77,9 @@ Making a completely new font editor from scratch has this dilemma that you need 
 
 We started with Lasse Fister’s **iPython**, as a plugin for FontForge, so that you can to interactive scripting development, while running fontforge. 
 
-Then Juraj Sukop has developed **Even**, which is a very simple little Qt IDE, very similar to the classic *NodeBox* or *DrawBot*, where you have a three-paned window, with input, output and display. You can write a Python program in the input area, you can run the program, you can see it's standard output in the tray underneath, and on the left you get a canvas where the program output is drawn. It can be used to produce test document PDFs from within FontForge.
+Then Juraj Sukop has developed **Even**[^even], which is a very simple little Qt IDE, very similar to the classic *NodeBox* or *DrawBot*, where you have a three-paned window, with input, output and display. You can write a Python program in the input area, you can run the program, you can see it's standard output in the tray underneath, and on the left you get a canvas where the program output is drawn. It can be used to produce test document PDFs from within FontForge.
+
+[^even]: http://xxyxyz.org/even/
 
 We also added this to the FontForge codebase, as a plugin. So we now have GTK and Qt plugins bundled with FontForge. Therefore, it's possible to develop functionality for FontForge, using either GTK, or Qt, or the web, as your toolkit.
 
