@@ -7,7 +7,7 @@
 
 ## 1: We declare some variables
 
-INPUT="../content/meta.txt ../README.md ../content/interviews/*.* ../content/talks/*.*" 
+INPUT="../content/meta.txt ../README.md ../content/interviews/*.* ../content/talks/*.* ../content/outro.txt" 
 TEMP="../temp/newfile.txt"
 
 TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)
