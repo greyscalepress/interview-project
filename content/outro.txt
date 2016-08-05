@@ -1,3 +1,19 @@
+\part{Notes}
+
+\afterpage{\null\thispagestyle{empty}\newpage}
+
+\afterpage{\null\thispagestyle{empty}\newpage}
+
+\afterpage{\null\thispagestyle{empty}\newpage}
+
+\afterpage{\null\thispagestyle{empty}\newpage}
+
+\afterpage{\null\thispagestyle{empty}\newpage}
+
+\afterpage{\null\thispagestyle{empty}\newpage}
+
+\afterpage{\null\thispagestyle{empty}\newpage}
+
 \afterpage{\null\thispagestyle{empty}\newpage}
 
 \thispagestyle{empty}

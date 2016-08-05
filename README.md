@@ -2,7 +2,7 @@
 
 This book is a work-in-progress. It gathers transcripts of interviews I have recorded / conducted, as well as notes of events and conferences. 
 
-It has been inspired, among others, by Hans-Ulrich Obrist *Interview Project[^huo]* ("an oral history of contemporary art", running since 1996 with nearly 2000 hours of interviews); by the book *Conversations[^conv]* edited by Constant and Christoph Haag in 2015; by a book by Markus Miessen[^ECE], and some more.
+It has been inspired, among others, by Hans-Ulrich Obrist’s *Interview Project[^huo]* ("an oral history of contemporary art", running since 1996 with nearly 2000 hours of interviews); by the book *Conversations[^conv]* edited by Constant and Christoph Haag in 2015; by a book by Markus Miessen[^ECE] (*East Coast Europe*)... and many more.
 
 ## Principles: 
 

@@ -14,7 +14,7 @@ Un court entretien avec Vincent de Roguin, au sujet de l'exposition *Power Track
 
 **MS** – Et quelle est la réception, l’avis du public?
 
-**VdR** – Pas mal d'avis tranchés et aussi d'étonnement face à l'étendue du sujet et au nombre d'artistes qui ont joués de ces codes. Ce qui est étonnant, c’est qu'entre le début de ce projet, les premières recherches et sa finalisation, ma propre opinion s’est développée dans un sens qui va du préjugé au doute le plus complet. Mes opinions sur la question sont de plus en plus vagues, comme diffractés devant toute cette complexité. Donc c’est vrai que ça m’a plutôt amené de l’inquiétude, plus que de la certitude.
+**VdR** – Pas mal d'avis tranchés et aussi d'étonnement face à l'étendue du sujet et au nombre d'artistes qui ont joués de ces codes. Ce qui est étonnant, c’est qu'entre le début de ce projet, les premières recherches et sa finalisation, ma propre opinion s’est développée dans un sens qui va du préjugé au doute le plus complet. Mes opinions sur la question sont de plus en plus vagues, comme diffractées devant toute cette complexité. Donc c’est vrai que ça m’a plutôt amené de l’inquiétude, plus que de la certitude.
 
 **MS** –  Au début, tu avais un peu une intention de “statement”?
 
@@ -32,7 +32,7 @@ Et Dave Tompkins, avec l’histoire du Vocoder, c’est finalement assez proche 
 
 **MS** – Je trouve que l’exposition questionne la lecture de l’histoire musicale par « genre ». On y constate des similitudes de codes graphiques dans des genres musicaux très distincts.
 
-**VdR** – Je crois que la quantité fait émerger l'évidence qu'on est beaucoup moins original et libre qu’on le pense. Quand on met les années 1980 un peu en perspective, on réalise que de la pop mainstream la plus crasse, la plus exploitative et son pendant underground et radical, jouent souvent avec les mêmes codes, avec les mêmes stratégies de provocation, de mobilisation de l'attention. Les intentions sont peut-être différentes mais mis côte-à-côte, la thématisation de la guerre froide est par exemple très uniforme, on a recours au même aux mêmes slogans et métaphores. Les choses se ressemblent, au point d’être carrément souvent interchangeables.
+**VdR** – Je crois que la quantité fait émerger l'évidence qu'on est beaucoup moins original et libre qu’on le pense. Quand on met les années 1980 un peu en perspective, on réalise que de la pop mainstream la plus crasse, la plus exploitative et son pendant underground et radical, jouent souvent avec les mêmes codes, avec les mêmes stratégies de provocation, de mobilisation de l'attention. Les intentions sont peut-être différentes mais mis côte-à-côte, la thématisation de la guerre froide est par exemple très uniforme, on a recours aux mêmes slogans et métaphores. Les choses se ressemblent, au point d’être carrément souvent interchangeables.
 
 **MS** – Le focus sur les genres électroniques, est-ce que c’était au final pertinent? Est-ce qu’il y a un fil rouge conducteur, ou bien finalement c’est une délimitiation arbitraire?
 

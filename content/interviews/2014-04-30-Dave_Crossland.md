@@ -59,9 +59,7 @@ So, Simon did follow a very similar path. When we met in New York, a year and a 
 
 The **Glyphs** font editor, which is a proprietary Mac OSX editor, has some support in it’s user interface, for working on families. But other editors don’t. Fontlab and Robofont. I mean, Robofont obviously copies Emacs' design to be very extensible, so it's difficult to make categorical statements about Robofont. But still. 
 
-So, with FontForge, we had that realtime collaboration feature. If you set it up right, then it works very well. It can crash, but then it has time crash protection. But it's just not pleasant to use. The user inteface of FontForge is difficult to work on. And working on the Fontforge user interface toolkit doesn't just make any sense whatsoever. Because *the web* is the default dominant user interface toolkit for software these days.
-
-> That leads me to the conclusion that we should be writing web based font editors. 
+So, with FontForge, we had that realtime collaboration feature. If you set it up right, then it works very well. It can crash, but then it has time crash protection. But it's just not pleasant to use. The user inteface of FontForge is difficult to work on. And working on the Fontforge user interface toolkit doesn't just make any sense whatsoever. Because *the web* is the default dominant user interface toolkit for software these days. That leads me to the conclusion that we should be writing web based font editors. 
 
 One of the things that we did, at the LGM, and at the *Interactivos* workshop, the week after the LGM in Madrid, was to work on a kind of web interface to FontForge. And the way that this worked in the collaboration mode was that, everytime someone in the collaboration session does something, if the font is in a buildable state, then the font is built, and pushed, using web sockets, to a web page. So that you have a live *web-document preview* of your typeface, as you're developing it.
 
@@ -87,6 +85,8 @@ What I would like to see, over the next year or two, is to replace the FontForge
 
 My preference is the web as a toolkit. 
 
+## Web-based Font Editors
+
 Currently, various web based font editors are being developed. There's *Glyphr Studio*[^glyphr], which is developed by Matt LaGrandeur, a UX designer and developer who works at Microsoft. *Glyphr Studio* is a classic font editor, based very much on the TrueType spec. Even if it has some nice features. 
 
 [^glyphr]: https://github.com/mattlag/Glyphr-Studio/  
@@ -103,7 +103,7 @@ Then there is *Prototypo*[^prototypo], which has been running a successful kicks
 
 **DC:** In web developement, there's been hundreds of templating syntaxes developed over the last years. The one which has really come to dominate is called Mustache. There's lot of derivatives of the Mustache syntax. Liquid Templates is also quite popular.
 
-Prototypo is putting that kind of templating together with SVG. So you can have a SVG path syntax, and the point positions, the X and Y positions on an SVG path, rather than being defined literally as integer values, are defined through a templating syntax. That gives you an algebra-equation power of specifying point positions, parametrically.
+Prototypo is putting that kind of templating together with SVG. So you can have a SVG path syntax, and the point positions, the x and y positions on an SVG path, rather than being defined literally as integer values, are defined through a templating syntax. That gives you an algebra-equation power of specifying point positions, parametrically.
 
 This being web based, it's a self contained *node.js* application. What I am interested in doing, is making that kind of thing possible to turn into a FontForge plugin. So that you would be able to click "export" in the web app, and then have that immediately appear in FontForge.
 
@@ -117,13 +117,7 @@ Another big thing we have been working on since LGM 2013: the UFO support in Fon
 
 **DC:** It's working a lot better than it used to. And we started to implement UFO version 3, which at the moment still isn't supported by any other font editors. We will see how that goes. 
 
-((question about the funding)) 
-
-In the work that I have been doing with Google Fonts, we have a lot of single style families, that it needs to expand into full families. I have been able to suggest to Google to give Simon and the other Metapolator developers financial support, in order to solve that problem for Google. 
-
-And I believe that the best way to fund free software is to align institution needs with user's needs. 
-
-**MS:** when at LGM 2014, you pointed out the similarities..
+**MS:** when at LGM 2014, you pointed out the similarities between the interface of Metapolator (a sidebar with *design* parameters, and a specimen card), and of the Google Fonts directory (a sidebar with *search* parameters, and a specimen card).
 
 **DC:** The basic idea of a font directory is that you have specimen cards for each card. And similarly, in **Metaflop**, which is kind of a Metapolator version one, you also have these three cards, where a glyph palette is showing all letters, then there's another card with one letter scaled up very big, and there's a third card where you can have a couple of lines of text.
 
