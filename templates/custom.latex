@@ -39,6 +39,9 @@
 
 \usepackage{titlesec}
 
+% We want captions in italic
+
+\usepackage[font={sf,small}]{caption}
 
 % End Manifesto Template Customization
 
