@@ -57,7 +57,7 @@ END {
 pandoc -f markdown --template=../templates/custom $TEMP \
 	--latex-engine=xelatex \
     --variable mainfont="HKSerif-Regular" \
-    --variable boldfont="HKSerif-SemiBold" \
+    --variable boldfont="HKSerif-Bold" \
     --variable italicfont="HKSerif-Italic" \
     --variable sansfont="HK Grotesk Pro" \
     --variable fontsize=9pt \
