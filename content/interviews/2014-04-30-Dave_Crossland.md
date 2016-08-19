@@ -136,7 +136,7 @@ And again, you are having little cards, there is typography on each card, where 
 
 **DC:** They can be used as a part of the type design process. There are different kinds of users. Someone who manages a collection of hundreds of fonts, is different of someone who is trying to originate a new design.
 
-**MS:** **TTFautohint** - this has now reached a stable version number?
+**MS:** **TTFautohint** – this has now reached a stable version number?
 
 **DC:** Yes, that's right. Werner Lemberg has been doing a great job during the last few years. He is probably the leading example of somebody working on libre font tools who has been able to sustain it financially. I made a little video for him when we started the project, for the initial fundraising, a campaign that was run on Pledgie. We managed to find funding from Fontlab, Extensis, Webink, the Android project, the Google Fonts project, and also hundreds of individuals. 
 

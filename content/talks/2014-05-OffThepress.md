@@ -98,9 +98,9 @@ They used the novel *L’Eve future*, which is an early science fiction novel fr
 
 Now, I’m not a big fan of presenting work. If you want to see the books, come tomorrow to the Bazaar. When is it? In the afternoon? Here?
 
-**SL** - It’s here.
+**SL** – It’s here.
 
-**MS** - So, that will be the opportunity of seeing real stuff.
+**MS** – So, that will be the opportunity of seeing real stuff.
 
 1016
 
