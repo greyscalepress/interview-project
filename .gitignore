@@ -41,5 +41,5 @@ dwsync.xml
 # Folders to ignore
 ###################
 temp
-# output
-# manifestos-tmp
+output
+content/temp
