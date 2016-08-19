@@ -1,26 +1,49 @@
 \part{Notes}
 
-\afterpage{\null\thispagestyle{empty}\newpage}
+\newpage
 
-\afterpage{\null\thispagestyle{empty}\newpage}
+Notes
 
-\afterpage{\null\thispagestyle{empty}\newpage}
+\newpage
 
-\afterpage{\null\thispagestyle{empty}\newpage}
+Notes
 
-\afterpage{\null\thispagestyle{empty}\newpage}
+\newpage
 
-\afterpage{\null\thispagestyle{empty}\newpage}
+Notes
 
-\afterpage{\null\thispagestyle{empty}\newpage}
+\newpage
 
-\afterpage{\null\thispagestyle{empty}\newpage}
+Notes
+
+\newpage
+
+Notes
+
+\newpage
+
+Notes
+
+\newpage
+
+Notes
+
+\newpage
+
+Notes
+
+\newpage
+
+Notes
+
+\newpage
 
 \thispagestyle{empty}
 
 \vspace*{\fill}
 
-Version 0.1 edited July 19 2016
+Version 0.1 completed July 19 2016
+Version 0.2 completed August 19 2016
 
 Greyscale Press
 
