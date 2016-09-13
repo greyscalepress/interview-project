@@ -45,6 +45,11 @@ Spine width: 0.2
 Cover width: 4.25 + 0.2 + 4.25 = 8.7 (+ 0.25 bleed = 8.95")    
 start of right page: 4.25+0.2 = 4.45
 
+**120 pages:**
+Spine width: 139 * 0.0025 = 0.3 in
+Cover width: 4.25 + 0.3 + 4.25 = 8.8 (+ 0.25 bleed = 9.05")
+start of right page = 4.55 in 
+
 **139 pages:**    
 Spine width: 139 * 0.0025 = 0.3475    
 Cover width: 4.25 + 0.3475 + 4.25 = 8.8475 (+ 0.25 bleed = 9.0975")    
