@@ -43,6 +43,7 @@
 
 \usepackage[font={sf,small}]{caption}
 
+
 % End Manifesto Template Customization
 
 $if(fontfamily)$
@@ -248,14 +249,31 @@ $endfor$
 
 \usepackage[labelformat=empty]{caption}
 
+% Chapter Marks, using the "fancyhdr" package
+
 \pagestyle{fancy}
-\renewcommand{\chaptermark}[1]{ \markboth{#1}{} }
-\renewcommand{\sectionmark}[1]{ \markright{#1}{} }
+
+% Influence how chapter, section, and subsection information (only two of them!) is displayed.
+% You must put the redefinition after the first call of \pagestyle{fancy} as this sets up the defaults
+
+% \renewcommand{\sectionmark}[1]{ \markboth{#1}{} }
+% \renewcommand{\chaptermark}[1]{ \markright{#1}{} }
+% \renewcommand{\sectionmark}[1]{\markright{\thesection\ #1}}
+
+% NOTE: we use the document class "book", hence Latex uses *chapter* and *section* information in the headings. 
+% Default = leftmark = *chapter*, rightmark = *section*
 
 \fancyhf{}
+
+% page numbers, on both pages
+
 \fancyhead[LE,RO]{\thepage}
-\fancyhead[RE]{\textit{ \nouppercase{\leftmark}} }
-\fancyhead[LO]{\textit{ \nouppercase{\rightmark}} }
+
+% R = Right Field, E = Even page (left) : custom content
+\fancyhead[RE]{\textit{ The Interview Project } }
+
+% L = Left Field, O = Odd page (right)
+\fancyhead[LO]{\textit{ \nouppercase{\leftmark}} }
 
 \fancypagestyle{plain}{ %
   \fancyhf{} % remove everything
@@ -266,6 +284,10 @@ $endfor$
 \newenvironment{bottompar}{\par\vspace*{\fill}}{\clearpage}
 
 \renewcommand{\thefootnote}{\textcolor{black}{\arabic{footnote}}}
+
+\usepackage{hyperref}
+\def\UrlBreaks{\do\/\do-}
+
 
 % End Customization
 
