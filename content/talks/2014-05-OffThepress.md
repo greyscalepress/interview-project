@@ -48,7 +48,7 @@ Now, there have been other things added to this collection. It has been expandin
 
 ![Neal Stephenson, *Mother Earth Mother Board*, print-on-demand version released in 2008, one copy.](../content/img/black-holes-p9-motherboard.png)
 
-Some of those additions are kind of undercover, without having the rights of using them. For instance, this great text by Neal Stephenson [on the screen: *Mother Earth Mother Board*] of which I made a printed edition, illustrated with images which weren’t in the original.
+Some of those books are bootlegs, undercover releases. For instance, this great text by Neal Stephenson [on the screen: *Mother Earth Mother Board*] of which I made a printed edition, illustrated with images which weren’t in the original.
 
 He’s writing… You know the article? It was published in WIRED magazine in the 90s[^MEMB]. It has been superseded since, but he was mapping the early Internet undersea cables. It’s a really great story, and he always puts in the text the GPS coordinates. So I made an illustrated version with maps that show the locations[^danw].
 
@@ -58,23 +58,21 @@ He’s writing… You know the article? It was published in WIRED magazine in th
 
 ![Kim Xupei, Data Hammer, 2009.](../content/img/black-holes-p12-datahammer.png)
 
-This was maybe one of the first “not found, but actually created” pieces: *Data Hammer* by Kim Xupei. This was a made-up personality and a made-up book. The concept was to write a fictional biography of a Chinese hacker, by basing the content on all that press that you have since 10 years, about the cyber threat coming from China. The Chinese hackers attacking Google, attacking American military systems, and so on.
+This was maybe one of the first “not found, but actually created” pieces: *Data Hammer* by Kim Xupei. It's a made-up personality and a made-up book. The concept was to write a fictional biography of a Chinese hacker, by basing the content on all that press that we have since 10 years, about the cyber threat coming from China. The Chinese hackers attacking Google, attacking American military systems, and so on.
 
-The concept here was to aggregate those news stories, to find some ghost writers to write a kind of novel from that, and to assemble it into a plausible biography. It’s a work in progress. You can order the book if you want, but its not a really coherent story yet. If there are people interested in the topic, talk with me and it may go forward.
+The concept here was to aggregate those news stories, to find some ghost writers to write a rough biographical novel from that, to assemble it into a plausible biography. It’s still a work-in-progress. You can order the book if you want, but its not really a coherent story yet. If there are people interested in the topic, talk with me and it may go forward.
 
 ![In conversation with Julian Assange, 2011.](../content/img/black-holes-p13-assange.png)
 
-This was another undercover project [on screen: *In conversation with Julian Assange*]. I came across that brilliant interview done by Hans-Ulrich Obrist with Assange[^assange], with contributions by Ai Wei Wei and many other artists. And I really wanted to have it in print and to show it to many other people, to have many other people read it. So I made an edition, I added some other texts, by Geert Lovink who is maybe in this room, and Jaron Lanier who refused that I would publish it, and so it stayed a kind of undercover thing.
+This was another undercover project [on screen: *In conversation with Julian Assange*]. I came across that brilliant interview done by Hans-Ulrich Obrist with Assange[^assange], with contributions by Ai Wei Wei and many other artists. And I really wanted to have it in print and to distribute it to my friends, to have many other people read it. So I produced an edition, I added some other texts, by Geert Lovink who is maybe in this room, and Jaron Lanier who refused that I would publish it, and so it stayed a kind of undercover thing.
 
 [^assange]: http://www.e-flux.com/journal/in-conversation-with-julian-assange-part-i/
 
 [on screen: *Jacob Appelbaum - Talks*]
 
-0624-Appelbaum
+This is a more recent one in that series about cypher punk activism. Those are talks, public speeches by Jacob Appelbaum, who is one of the persons who are really in the know of what the NSA has been doing, and who has been covering the Snowden case for the german magazine *Spiegel*.
 
-This is a more recent one in that series about cypher punk activism. Those are talks, speeches by Jacob Appelbaum, who is one of the persons who are really in the know of what the NSA has been doing, and who has been covering the Snowden case for the german SPIEGEL.
-
-He has been giving lots of talks, and also a testimony in front of the European Parliament. You can watch those videos on YouTube and on many places. They are really full of information, it’s an extremely dense topic. So I needed to have that on paper, black on white, to be able to take my yellow marker and to analyze and process it.
+He has been giving lots of talks, and also a testimony in front of the European Parliament. You can watch those videos on YouTube and on many places. They are really full of information, it’s an extremely dense and technical topic. So I needed to have that on paper, black on white, to be able to take my yellow marker and to analyze and process it.
 
 I had those talks transcribed by online services and then, with Jacobs’s aknowledgement, I published it as a print-on-demand book that you can order cheaply, for your education, or also as a propaganda piece to spread and support the cause.
 
@@ -86,15 +84,15 @@ For instance, this book by Jacob Applebaum has been shared on Github[^appelbaum-
 
 [^appelbaum-git]: https://github.com/greyscalepress/ioerror
 
-I have been working for instance with **Scribus**, an open-source typesetting, graphic design software which uses an XML file format, which could potentially be used for all types of processes, transforming into Epubs and whatnot. Some people are working on that!
+I have been working with **Scribus**, an open-source typesetting, graphic design software which uses an XML file format, which could potentially be used for all types of processes, transforming into Epubs and whatnot. Some people are working on that!
 
 Once you get into that process, you start also becoming obsessed by typefaces and fonts. This [on screen: *L’Eve future*] was probably the most successfully selling book that was published by Greyscale Press, and it’s called *L’Eve future – spécimens de fontes libres*.
 
 ![](../content/img/black-holes-p19-specimens.png)
 
-It’s a book of type specimens. It was done in book-sprint mode, during a one-week workshop with 10 or 12 graphic design students who worked on that intensively. They gathered a selection of high quality open-source free and libre fonts, that were assembled in a type specimen book.
+It’s a book of type specimens. It was done in book-sprint mode, during a one-week workshop with graphic design students who worked on that intensively. They gathered a selection of high quality open-source free and libre fonts, that were assembled in a type specimen book.
 
-They used the novel *L’Eve future*, which is an early science fiction novel from the 19th century, and decided to make it run through the whole book. So it’s not one text sample that just repeats, but it’s a full novel that you can read from page 1 to page 500. It was a big challenge, and they did it. It’s selling through distribution channels like Amazon quite well. It’s really a useful design tool.
+They used the novel *L’Eve future*, which is an early science fiction novel from the 19th century, and decided to make it run through the whole book. So it’s not one text sample that just repeats, but it’s a full novel that you can read from page 1 to page 500. It was a big challenge, and they succeeded. It’s selling through distribution channels like Amazon quite well. It’s really a useful design tool.
 
 Now, I’m not a big fan of presenting work. If you want to see the books, come tomorrow to the Bazaar. When is it? In the afternoon? Here?
 
@@ -118,7 +116,7 @@ Now, it depends how you define spam. This can be useful for some people probably
 
 **MS** — It’s also kind of poetry, I think. Also there is an algorithm who generates random prices, as you can see. The name of the publisher is Icon Group International.
 
-The last time when there was a query about that, I found that he has produced quite a number of books. He has been patient, and Amazon hasn’t been kicking him out, unlike you. So, they consider this to be “good enough” content.
+The last time I looked, I found that he has produced quite a number of books. He has been patient, and Amazon hasn’t been kicking him out, unlike you. So, they consider this to be “good enough” content.
 
 ![Search results for "Icon Group International"](../content/img/black-holes-p24-icon-group.png)
 

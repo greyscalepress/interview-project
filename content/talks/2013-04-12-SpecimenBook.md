@@ -8,9 +8,9 @@ It happened in one week, in five days, it happened a bit less than two months ag
 
 What is a specimen book and why do we need a specimen book?
 
-If you design a project with type -- be it a book, or a magazine, or nowadays a website even -- one of the really first steps you have to attack is to find the good font, that will match the content and that will work. This is an important step, and it can take really a lot of time, because there are many good fonts that you may want to use.
+If you design a project with type -- be it a book, or a magazine, or a website -- one of the really first steps you have to attack is to find the good font, that will match the content and that will work. This is an important step, and it can take a lot of time, because there are many good fonts that you may want to use.
 
-It's a very psychological, personal thing to find the appropriate font for a certain text, for a certain story or narration. It's not just about beautiful letter shapes. Actually, when you read a story, or an article, or an interview, you don't want to see beautiful letters, but you want to go into the text. The font has to become transparent. It has to become invisible.
+It's a very psychological, personal thing to find the appropriate font for a certain text, for a certain story or narration. It's not simply about beautiful letter shapes. Actually, when you read a story, or an article, or an interview, you don't want to see beautiful letters, but you want to go into the text. The font has to become transparent. It has to become invisible.
 
 It will be very dependent on the subject, on the language also. The texture of type changes with different languages. It can have a kind of temperature. A font can be sharp, or thick. Fast, or slow. 
 
@@ -48,19 +48,19 @@ We established some rules. To use exclusively Libre fonts, that allow any type o
 
 The first step was that the students had to produce a standardized specimen layout. This involved a lot of research during the first two and a half days, with many different approaches, different formats, different graphic attempts. Lots of discussions, lot of criticism.
 
-I had pragmatic approach, I just wanted to have something that looked quite close to what we have in a book. The students were very focused on perfect harmony, breathing space, white space, and so on. This was what they achieved and agreed upon, in the end. It was a mutual compromise.
+I had a pragmatic approach, I simply wanted to display paragraphs of text that looked close to what we usually see in books. The students were very focused on perfect harmony, breathing space, white space, and so on. Here's was what they achieved and agreed upon, in the end. It was a mutual compromise.
 
-The next thing that was needed, in parallel, was an appropriate source text. When you design a specimen, you need to have some sample text, to have something on the page. This is a very tricky choice as well.
+The next thing that was needed, in parallel, was an appropriate source text. When you design a specimen, you need to have some sample text, something to put on the page. This is a tricky choice as well.
 
-We looked at what other specimen books did. We studied the competition. What inspired us a lot was this little book,  *Type Now*, by Fred Smeijers, a great Dutch type designer. He has about 20 pages of specimens of his own fonts in this book. What is interesting is that it's not always the same sentence that repeats, but it's one text that flows through those 20 pages.
+We looked at what other specimen books did. We studied the competition. What inspired us a lot was this little book, *Type Now*, by Fred Smeijers, a great Dutch type designer. The book has about 20 pages of specimens showcasing his own fonts. What is interesting is that it's not always the same sentence repeating, but it's one text that flows through those 20 pages.
 
-It's a very nice dialogue about the production of fonts, which was written in the 16th century in French by Christophe Plantin. It works very well. You can watch the fonts, but it also feels like a live, real text.
+It's actually a dialogue about the production of fonts, which was written in the 16th century in French by Christophe Plantin. It works very well – you can study the fonts, but it also feels like a live, real text.
 
 So we were looking for a real text, a real narrative. It had to be in the public domain, of course, because we want the book to be freely distributable. It had to be French, because, as we said, language influences the texture. 
 
 We found that book, "L'Ève Future," a pre-science-fiction novel from the 19th century, by Villiers de L'Isle Adam. Thomas Edison is the main character. The story is something that influenced, later, "Metropolis" and "Bladerunner," a female artificial human. It was published more than 100 years ago, the author died in 1889. It is in public domain in most countries. 
 
-Now, the word count, it was quite a lot (85'388), so we had to check if it was feasible. We divided by the number of people (12), estimated the number of words per specimen (500): about 15 specimens per person, may be a bit more... Doable! 
+Now, the word count: it was quite a lot (85'388), so we had to check if it was feasible. We divided by the number of people (12), estimated the number of words per specimen (500): about 15 specimens per person, may be a bit more... Doable! 
 
 So, the real sprint started, and it was a lot of work. On the little sticky notes, those are the names of the fonts, which are labeled by color for *serif*, *sans*, and *mono*.
 

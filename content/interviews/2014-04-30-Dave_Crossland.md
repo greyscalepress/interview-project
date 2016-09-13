@@ -1,12 +1,6 @@
 # Dave Crossland - Future Type Tools
 
-Interview with Dave Crossland about the floss type design ecosystem, recorded April 30 2014. Conducted for Libre Graphics Magazine, the Type Issue.
-
-on FontForge   
-Metapolator   
-font bakery  
-type testing tool   
-...
+Interview with Dave Crossland about the floss type design ecosystem, recorded in April 2014. Conducted for *Libre Graphics Magazine*, the Type Issue.
 
 ## FontForge 
 
@@ -19,9 +13,9 @@ Things which were mathematically interesting for him to develop, but it wasn't r
     https://github.com/fontforge/fontforge   
     License: GPLv3+  
 
-**M:** That was the person who developed **Spiro**?
+**Manuel Schmalstieg** – That was the person who developed **Spiro**?
 
-**D:** No, no. Raph Levien, who wrote **Spiro**, initiated the project, the code base that is now most widely recognized as **Inkscape**. 
+**Dave Crossland** – No, no. Raph Levien, who wrote **Spiro**, initiated the project, the code base that is now most widely recognized as **Inkscape**. 
 
 He made a program called **Gill**, as in Eric Gill, which was the "Gnome Illustration program". Raph also developed a very simple font editor, which I don't think he ever published. This is about fifteen years ago.
 
@@ -37,9 +31,9 @@ The most recent workshop I ran was at a design school in Sweden called Hyper Isl
 
 ## realtime collaboration mode
 
-**M:** At LGM Madrid (2013), you presented that "Fonts of Doom" mode in FontForge.
+**MS** – At LGM Madrid (2013), you presented that "Fonts of Doom" mode in FontForge.
 
-**D:** There has been a lot of tiny little changes made. We redid the icons on the toolbar. We redid the hotkeys. We fixed a lot of crashes. We added that you could interact with the metrics in a more easy way. I have been fairly shy of actually adding any major features to fontforge.  
+**DC** – There has been a lot of tiny little changes made. We redid the icons on the toolbar. We redid the hotkeys. We fixed a lot of crashes. We added that you could interact with the metrics in a more easy way. I have been fairly shy of actually adding any major features to fontforge.  
 
 This is the irony, everyone's like "Wow, Fontforge is so much better than two years ago." But actually we didn't change anything in the functionality. We just made a lot of little changes to the user interface. 
 
@@ -99,9 +93,9 @@ Then there is *Prototypo*[^prototypo], which has been running a successful kicks
     http://www.prototypo.io/  
     License: GPLv3
 
-**MS:** Which means?
+**MS** – Which means?
 
-**DC:** In web developement, there's been hundreds of templating syntaxes developed over the last years. The one which has really come to dominate is called Mustache. There's lot of derivatives of the Mustache syntax. Liquid Templates is also quite popular.
+**DC** – In web developement, there's been hundreds of templating syntaxes developed over the last years. The one which has really come to dominate is called Mustache. There's lot of derivatives of the Mustache syntax. Liquid Templates is also quite popular.
 
 Prototypo is putting that kind of templating together with SVG. So you can have a SVG path syntax, and the point positions, the x and y positions on an SVG path, rather than being defined literally as integer values, are defined through a templating syntax. That gives you an algebra-equation power of specifying point positions, parametrically.
 
@@ -113,13 +107,13 @@ Metapolator is a font family design tool. It's not about drawing the masters - t
 
 Another big thing we have been working on since LGM 2013: the UFO support in FontForge. 
 
-**MS:** Is this working now in FontForge?
+**MS** – Is this working now in FontForge?
 
-**DC:** It's working a lot better than it used to. And we started to implement UFO version 3, which at the moment still isn't supported by any other font editors. We will see how that goes. 
+**DC** – It's working a lot better than it used to. And we started to implement UFO version 3, which at the moment still isn't supported by any other font editors. We will see how that goes. 
 
-**MS:** when at LGM 2014, you pointed out the similarities between the interface of Metapolator (a sidebar with *design* parameters, and a specimen card), and of the Google Fonts directory (a sidebar with *search* parameters, and a specimen card).
+**MS** – when at LGM 2014, you pointed out the similarities between the interface of Metapolator (a sidebar with *design* parameters, and a specimen card), and of the Google Fonts directory (a sidebar with *search* parameters, and a specimen card).
 
-**DC:** The basic idea of a font directory is that you have specimen cards for each card. And similarly, in **Metaflop**, which is kind of a Metapolator version one, you also have these three cards, where a glyph palette is showing all letters, then there's another card with one letter scaled up very big, and there's a third card where you can have a couple of lines of text.
+**DC** – The basic idea of a font directory is that you have specimen cards for each card. And similarly, in **Metaflop**, which is kind of a Metapolator version one, you also have these three cards, where a glyph palette is showing all letters, then there's another card with one letter scaled up very big, and there's a third card where you can have a couple of lines of text.
 
 This is conceptually very similar: you have this main staging area, showing type, to the left you have the sidebar with sliders. The Prototypo user interface is also very much like this: there's a sidebar with sliders, then you have the main stage area, with different views of type at various scales. 
 
@@ -132,29 +126,29 @@ Pablo Impallari has been developing a testing tool, that he uses doing his type 
 
 And again, you are having little cards, there is typography on each card, where instead of sliders to change the type rendered in the card, you have a sidebar with questions. When you have a typeface, and want to put it through it's paces, then you have dozens or hundreds of test cases, that allow to evaluate various aspects of the typeface. 
 
-**MS:** this is the thing a designer will do, before he submits the font?
+**MS** – this is the thing a designer will do, before he submits the font?
 
-**DC:** They can be used as a part of the type design process. There are different kinds of users. Someone who manages a collection of hundreds of fonts, is different of someone who is trying to originate a new design.
+**DC** – They can be used as a part of the type design process. There are different kinds of users. Someone who manages a collection of hundreds of fonts, is different of someone who is trying to originate a new design.
 
-**MS:** **TTFautohint** – this has now reached a stable version number?
+**MS** – **TTFautohint** – this has now reached a stable version number?
 
-**DC:** Yes, that's right. Werner Lemberg has been doing a great job during the last few years. He is probably the leading example of somebody working on libre font tools who has been able to sustain it financially. I made a little video for him when we started the project, for the initial fundraising, a campaign that was run on Pledgie. We managed to find funding from Fontlab, Extensis, Webink, the Android project, the Google Fonts project, and also hundreds of individuals. 
+**DC** – Yes, that's right. Werner Lemberg has been doing a great job during the last few years. He is probably the leading example of somebody working on libre font tools who has been able to sustain it financially. I made a little video for him when we started the project, for the initial fundraising, a campaign that was run on Pledgie. We managed to find funding from Fontlab, Extensis, Webink, the Android project, the Google Fonts project, and also hundreds of individuals. 
 
 That has been working very well, it's now the point when you can design with ((TTFautohint)) to be able to hint as part of your development process from day one. So that you can draw a glyph, and TTFautohint it, and preview how that's rendering in browsers. And by integrating TTFautohint in your design process, you can produce designs which render extremely well on legacy windows platforms, without needing to do any hinting. 
 
-**MS:** is this integrated into existing design software?
+**MS** – is it integrated into existing design software?
 
-**DC:** There is a very simple graphical user interface to TTFAutohint. You can load a font file, and check the boxes with the options, rather than reading a manual. I would expect all these programs to integrate TTFauthint , build process, options.
+**DC** – There is a very simple graphical user interface to TTFAutohint. You can load a font file, and check the boxes with the options, rather than reading a manual. I would expect all these programs to integrate TTFauthint , build process, options.
 
 And one of the things I am very excited about in technology is Enscripten, and (())dot js. So, Enscripten is transpiler, that allows you to take a C or C++, or even Python, or another scripting language program, and it allows you to compile it into Javascript. And specifically, (()) Javascript, which has been highly optimized in Firefox and in a few other browsers. This allows is to take a lot of existing free software, and run it in the browser. It should be possible to take TTFAutohint, and have that hinting process done as part of a web application.
 
-**MS:** as part of Metapolator, or whatever?
+**MS** – as part of Metapolator, or whatever?
 
 Obviously with FontForge, since FontForge is a binary application, this isn't totally necessary. But what I would like to see, over the next year or two, is to replace the FontForge user interface by web or Qt or TTK plugins. I'm kind of agnostic to whatever wins out, personally I'd be betting on the web stack. But if people jump in, develop Qt or TTK functionality, then that sounds great to me.
 
-**MS:** There was one last thing: **Kernagic**. What's happening with that?
+**MS** – There was one last thing: **Kernagic**. What's happening with that?
 
-**DC:** So, **Kernagic** (pronouced ‘Kemagic’) is a project by Pippin (Øyvind Kolås). He has pretty much come to the point where he's happy with it. It is very much an intellectual exercise to him, as a kind of hacker nomad, who was trying at the LGM 2013 in Madrid to crack at the spacing. Here we are a year later, and he has done an amazing job. 
+**DC** – So, **Kernagic** (pronouced ‘Kemagic’) is a project by Pippin (Øyvind Kolås). He has pretty much come to the point where he's happy with it. It is very much an intellectual exercise to him, as a kind of hacker nomad, who was trying at the LGM 2013 in Madrid to crack at the spacing. Here we are a year later, and he has done an amazing job. 
 
 Kernagic has two modes. It has the *table of cadences*, from Frank E. Blokland’s letter model. And then it got Pippin's own independent thinking, which was informed by Frank's model, but is an independent perspective on the whole problem. 
 
@@ -162,13 +156,13 @@ Pippin's gone forward with fonts now, he has also done **Fontile**, which is his
 
 **Kernagic** is a C application, it's TTK2, so it's not that easy to package for Windows or Mac OSX. So the best way to use Kernagic is to run it on a GNU system. And obviously, most type designers are using Mac OSX, so it's got a somewhat limited audience. But the results that designers, like Vernon Adams, achieved with Kernagic are very compelling.
 
-**MS:** so, Kernagic is an independent application? 
+**MS** – so, Kernagic is an independent application? 
 
-**DC:** Yes, it's a standalone TTK application. It uses UFO for input and output, and it follows the UFO live-file-system-watcher model, so that you have one UFO file, and you can open that in several UFO applications at the same time. And when you click the "save" button in one of the applications, the other applications are watching the file system, and allow you to select how you want to take the update. So it doesn't really make sense to have Kernagic as a FontForge plugin, because it is cooperating with FontForge by the file system.  
+**DC** – Yes, it's a standalone TTK application. It uses UFO for input and output, and it follows the UFO live-file-system-watcher model, so that you have one UFO file, and you can open that in several UFO applications at the same time. And when you click the "save" button in one of the applications, the other applications are watching the file system, and allow you to select how you want to take the update. So it doesn't really make sense to have Kernagic as a FontForge plugin, because it is cooperating with FontForge by the file system.  
 
 Something that underpins all of this is: all of these project are developed on Git version control, and almost all of them are developed on GitHub. So, becoming familiar with Git and GitHub is essential for designers, especially type designers -  because that's really the dominant collaboration channel of today.
 
-((Payment model of FontForge))
+((Q: Payment model of FontForge))
 
 As I said, we packaged a Windows native build of FontForge, which runs pretty good. And the Ardour audio editor has been quite successfully working to provide a "pay libre software" model, where users are asked to pay for a copy, or to buy a subscription, so that they get updates on an annual subscription basis. I'm very keen on this idea, because I think that freedom is valuable, and we live in a capitalist system where people pay for valuable things. So I think that free software should be more expensive than proprietary software - because it's more valuable.
 
@@ -177,7 +171,5 @@ I definitely think that not enough free software developers are funded to work o
 ((Q: how is the decision taking done in FontForge)) 
 
 Only a couple of people had commit access on Sourceforge. Somebody brough FontForge over to Github. Then we set up FontForge as a GitHub organization. And there's 35 members in the organization right now. But only a few of them are really active contributors. 
-
-
 
 **************
