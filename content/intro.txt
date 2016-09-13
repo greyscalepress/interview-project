@@ -9,10 +9,8 @@ Built with Markdown, Pandoc and TeX\\*
 Cover designed with Scribus
 
 Typefaces\\*
-Cover:\\*
-Bagnard, by Sebastien Sanfilippo\\*  
-Interior:\\*
-HK Serif and HK Sans Pro, by Alfredo Marco Pradil
+Cover: Space Mono, by Colophon Foundry / Benjamin Critton\\*  
+Interior: HK Serif and HK Sans Pro, by Alfredo Marco Pradil
 
 Greyscale Press\\*
 ISBN-13: 978-2-940561-03-2
