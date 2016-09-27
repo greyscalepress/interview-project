@@ -1,73 +1,69 @@
 # The NETworkshop
 
-In a meeting in summer 2014, Manuel interviewed Boris about Julian Oliver and Danja Vasiliev’s (of the Critical Engineering Working Group) *NETworkshop* that Boris attended earlier that year. The discussion was recorded on Manuel’s phone and subsequently submitted to CastingWords to obtain a written transcription (the transcription is remarkably accurate, safe for Apichatpong Weerasethakul who was transcripted as “Artie Shappong ou Vanessa Tcool”).
+In a meeting in summer 2014, Manuel interviewed Boris about Julian Oliver and Danja Vasiliev’s (of the Critical Engineering Working Group) *NETworkshop* that Boris attended earlier that year.
 
-**Manuel Schmalstieg** — Tu parlais du workshop.
+**Manuel Schmalstieg** — Donc, tu parlais du workshop.
 
 **Boris Kish** — Oui, le workshop.
 
-**MS** — Tu as fait des rêves pendant ce workshop.
+**MS** — Tu as fait des rêves pendant ce workshop, parait-il?
 
-**BK** — Je t’ai dit ça ?
+**BK** — Je t’ai dit ça ? Ouais, ouais. C’était stimulant, quoi.
 
-**MS** — Ouais, ouais.
+Ensuite, ce que je craignais s’est un peu passé, c’est qu’après, ça part très vite. C’est un peu comme quand tu fais des exercices spirituels de méditation. Quand t'as des expériences profondes, métaphysiques, comme un concert de Karkowski, ou bien certains films d'Apichatpong Weerasethakul — tu en gardes quelque chose de profond, mais ensuite, la question c’est comment conserver cet état dans le temps.
 
-**BK** — C’était stimulant, quoi.
+Parce que, petit à petit, ça s’émousse, ça s’effrite et ça se perd. Il y avait une sorte de conscience nouvelle qui était ouverte, des espaces liberté de conscience… c’était un agrandissement de la conscience ce workshop. Et ensuite, petit à petit ça part. Parce que c’est quelque chose de pas familier, de très étrange. Et ensuite, petit à petit, ça se fait bouffer par l’inertie du quotidien.
 
-Ensuite, ce que je craignais s’est un peu passé, c’est qu’après, ça part très vite. C’est un peu comme quand tu fais des exercices spirituels de méditation. Quand tu as des expériences profondes, métaphysiques comme un concert de Karkowski ou bien certains films de Artie Shappong ou Vanessa Tcool. Tu en gardes quelque chose de profond, mais ensuite la question, c’est comment conserver cet état dans le temps.
+Il y avait deux ou trois très jolies étudiantes de St-Luc, qui avaient évidemment des Macintosh dernier cri et des ongles rouges, qui étaient dans l’art digital, en nouveaux médias ou je ne sais quoi, en *digital art* à leurs écoles... qui semblaient absolument pas… enfin, à la fois politisées, mais à la fois pas du tout. C’est très étrange. Mais jeunes, tu vois, entre 20 et 25 ans.
 
-Parce que, petit à petit, ça s’émousse, ça s’effrite et tu perds… C’était un peu… il y avait une sorte de conscience nouvelle qui était ouverte des espaces liberté de conscience… c’était un agrandissement de la conscience ce workshop, et ensuite, petit à petit ça part, parce que c’est quelque chose de pas familier, de très étrange, et ensuite, petit à petit, ça se bouffait par l’inertie du quotidien, quoi. [rire]
+Il y avait une série de vieux gars un peu bougons, solitaires. Et puis il y avait des activistes. Et puis il y avait des provinciaux, qui venaient, qui étaient en formation infographique ou des trucs comme ça, dans des centres technologiques dans les villes de province wallonnes, qui étaient plutôt les représentants de Windows. Evidemment, les vieux bougons, ils étaient sur Linux, ainsi que les activistes. 
 
-Il y avait des... il y avait deux ou trois très jolies étudiantes de St-Luc. Qui avaient évidemment des Macintosh dernier cri et des ongles rouges… qui étaient dans l’art digital et qui étaient, ouais, en nouveau média ou -- je ne sais pas quoi -- en digital art à leurs écoles, qui semblaient absolument pas… enfin, à la fois politisées, mais à la fois pas du tout.
+Et donc, il y avait Julian et Danja. Très complémentaires.
 
-C’est un truc étrange. Mais jeunes, tu vois, entre 20 et 25 ans. Il y avait une série de vieux gars un peu [indecipherable 00:01:41] , solitaires, un peu… et puis il y avait des activistes… et puis il y avait des provinciaux, qui étaient en formation infographie ou des trucs comme ça dans des centres technologiques dans les villes de province wallonnes, qui eux étaient plutôt les représentants de Windows… [indecipherable 00:02:04] les vieux [indecipherable 00:02:05] c’étaient des gens sur Linux, des activistes. Il y avait Danja et David [indecipherable 00:02:18], c’est ça? Non.
+**MS** — J’adore leur style vestimentaire.
 
-*MS* — Julian.
+**BK** — Oui, oui. Ils ont un style monstrueux. Il y avait la copine de Julian qui est passée aussi… en tout cas, une copine de lui, qui semblait très proche. Extrêmement stylée. Elle n'a pas dit un mot, jamais. Jamais frayé avec les gens.
 
-*BK* — Julian et Danja, ouais. Très complémentaires.
+**MS** — Néo-zélandaise ?
 
-*MS* — J’adore leur style vestimentaire.
+**BK** — Elle avait pas l’air. Elle parlait anglais. Mais elle avait plutôt un type asiatique. Ils avaient l’air d’être très contents, les deux, d’être là en général, et de partager tout ça. Ils avaient l'air très contents. Très excités en général, très énergiques. 
 
-*BK* — Oui, oui, oui. Ils ont un style monstrueux. Il y avait la copine de Julian qui est passée aussi… en tout cas, une copine de lui, qui semblait très proche, intime, extrêmement stylée. Elle a pas dit un mot jamais. Même effrayée avec des gens.
+Évidemment, il y avait des gens qui connaissaient le code, à différents niveaux. D'autres gens absolument pas, ils n'avaient jamais écrit une ligne de code de leur vie. Plutôt proche de moi. 
 
-*MS* — Néo-zélandaise ?
+C’était rigolo, parce que, du coup, il fallait vraiment compter sur les autres. Ça allait assez vite, et il y avait souvent des gens complètement paumés. Ça créait beaucoup d’échanges.
 
-*BK* — Elle avait pas l’air, disons. Elle parlait anglais. Mais elle avait plutôt un type asiatique. Ils avaient l’air d’être très contents, les deux d’être là en général et de partager tout ça… d’ailleurs, très contents. Très excités en général, très énergiques. Évidemment, il y avait des gens qui connaissaient le code, à différents niveaux, des gens absolument pas… qui avaient jamais créé une ligne de code de leur vie.
+**MS** — Il y avait des rencontres intéressantes ?
 
-Plutôt proche, moi. C’était rigolo, par-ce que, du coup, tout le monde… enfin, il fallait finalement compter un peu sur les autres. Enfin, des fois ça allait assez vite… ça allait vraiment assez vite et il y avait souvent des gens complètement paumés. [rires] Ça a créé beaucoup d’échanges.
+**BK** — Pas pour moi, non, j’ai pas *rencontré* des gens… Mais, attends, comment il s’appelle ce gars ? Il me semble que c’est un gars qu’on avait déjà vu à l’iMAL, qui faisait un truc de radio. C’est un gars qui étaint dans le son. Il y avait plusieurs gars et filles qui étaient dans le son, plutôt des français. Mais, par contre, ce qui est un peu décevant aussi, c’est qu’il y avait une mailing-liste, mais il y a jamais rien eu. J’ai jamais été tenu au courant de quoi que ce soit, sur les activités de Julian et Danja.  
 
-*MS* — Il y avait des rencontres intéressantes ?
+Et puis, aussi, ils devaient aussi envoyer toute une doc sur ce qu’on avait fait. Et ils l’ont pas fait... C’est un peu étrange.
 
-*BK* — Pas pour moi, non, j’ai pas rencontré des gens… mais, je sais plus [rires] … attends, comment il s’appelle ce gars ? Il me semble que c’est un gars qu’on avait déjà vu à l’iMAL qui avait fait… qui faisait un truc de radio. Mais, c’est des gars qui étaient dans le son. Il y avait plusieurs gars et filles qui étaient dans le son, plutôt des français. Mais, par contre, ce qui m’a… ce qui est un peu décevant aussi, c’est qu’il y avait un… il y avait une mailing list, et… mais il y a jamais rien eu. J’ai jamais été tenu au courant de quoi que ce soit sur les activités de Julian et Danja.  
-Et puis, aussi, ils devaient aussi envoyer toute une doc sur ce qu’on avait fait. Ils l’ont pas fait. C’est un peu étrange.
-
-*MS* — Ce que vous avez fait, c’était quoi ?
+**MS** — Ce que vous avez fait, c’était quoi ?
 
 2014-03-31 10.34.43
 
-*BK* — Qu’est-ce qu’on a fait ? [rire] Je me souviens pas ! [rire] On a fait un réseau local… on a fait des pings. On est sorti… on a appris à capter du WiFi qui passait dans le coin. Et à le décoder… ils ont donné toute une série de… d’outils pour ça. On a installé une version de Linux stand alone. Attends, comment ça marchait cet [indecipherable 00:05:08] … bon, bref…
+**BK** — Alors, on a... Qu’est-ce qu’on a fait ? Je me souviens pas ! [rire] 
 
-*MS* — Un truc virtual box.
+On a fait un réseau local… on a fait des pings. On est sorti… on a appris à capter du WiFi qui passait dans le coin. Et à le décoder — ils ont donné toute une série d’outils pour ça. On a installé une version de Linux *standalone*. Attends, comment ça marchait ce… bon, bref…
 
-*BK* — Voilà, c’est ça. Exactement. Et qui était préparé pour… avec toute une série d’outils, de bibliothèques… pour faire ce qu’on faisait.
+**MS** — Un truc virtual box.
 
-*MS* — Du “war driving” ?
+**BK** — Voilà, c’est ça. Exactement. Et qui était préparé pour, avec toute une série d’outils, de bibliothèques, pour faire ce qu’on faisait.
 
-*BK* — Oui. J’ai toujours sur moi… Ah oui, on a aussi installé Tor. On a fait ça. On a “toré” aussi. Il y a eu tout un moment où ils ont pas mal parlé de Tor théoriquement.  
-Un grand moment, c’était quand on est sorti dans la rue et chacun était à gauche, à droite avec son laptop, son dieu sait quoi, et a enregistré une chiée de flux WiFi qui passaient.  
-Ensuite, on rentre et on décode tout ça. Ça, c’était hyper fun.
+**MS** — Du “war driving” ?
 
-*MS* — Il y avait des trouvailles ?
+**BK** — Ouais. Je l’ai toujours sur moi… Ah oui, on a aussi installé Tor. On a fait ça, on a “toré” aussi. Il y a eu tout un moment où ils ont pas mal parlé de Tor théoriquement.
+  
+Un grand moment, c’était quand on est sorti dans la rue et chacun était à gauche, à droite, avec son laptop, son dieu sait quoi, et a enregistré une chiée de flux WiFi qui passaient. Ensuite, on rentre et on décode tout ça. Ça, c’était hyper fun.
 
-*BK* — Oui.
+**MS** — Il y avait des trouvailles ?
 
-*MS* — Genre ?
+**BK** — Ah ouais! Des selfies. Souvent c’était un peu glitché, très glitché. Souvent les images n’étaient pas complètes, ou des trucs comme ça, c’était recomposé en partie. Ce qui était spectaculaire, c’était les images. Il y avait aussi quelques fragments sonores. C’était assez convaincant! Ça marchait vraiment. 
 
-*BK* — Des selfies. Souvent c’était un peu glitché, très glitché. Souvent les images n’étaient pas complètes, ou des trucs comme ça, c’était recomposé en partie. Ce qui était spectaculaire, c’était les images. Il y avait aussi quelques fragments sonores. C’était assez convaincant. Cela marchait vraiment. Ensuite, maintenant, si je devais… Je crois que sur mon ordi, il y avait un problème. Je ne sais plus quoi.
+Mais, ensuite, maintenant, si je devais… Je crois que sur mon ordi, il y avait un problème, je ne sais plus quoi. Je n’ai pas vraiment réussi à capter moi-même du matos intéressant. Je ne sais plus pourquoi. Si je voulais le refaire moi-même, il faudrait que j’y passe... pfff... vraiment un certain temps pour refaire marcher l’histoire. Ce que je n’ai pas essayé.
+  
+Mais c’était super intéressant de le faire. De voir que c’est possible, et que ce n’est pas très sorcier. Enfin, les outils existent et sont là, accessibles.
 
-Je n’ai pas tellement réussi à le faire, à capter moi-même du matos intéressant. Je ne sais plus pourquoi. Si je voulais le refaire moi-même, il faudrait que j’y passe vraiment un certain temps pour refaire marcher l’histoire. Ce que je n’ai pas essayé, parce que ça alors…  
-Mais c’était super intéressant de le faire, et de voir que c’est possible, et que ce n’est pas très sorcier. En fait, les outils existent et sont là, accessibles.
+**MS** — OK. J’arrête le fragment.
 
-*MS* — OK. J’arrête le fragment.
-
-*BK* — Oui.
+**BK** — Oui.

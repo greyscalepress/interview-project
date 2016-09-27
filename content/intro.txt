@@ -5,6 +5,8 @@
 The first version of this book (0.0)\\*
 was created in July 2016 
 
+Edited and designed by Manuel Schmalstieg
+
 Built with Markdown, Pandoc and TeX\\*
 Cover designed with Scribus
 
