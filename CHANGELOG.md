@@ -6,9 +6,12 @@ The format is roughly based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+- changed the order: mixing interviews and talks chronologically.
+
 ## [0.3] - September 09 2016  
 
 File: Interv-20160909_211827Z.pdf
+120 pages
 
 ## [0.2] - August 19 2016 
 

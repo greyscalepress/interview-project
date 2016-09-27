@@ -25,6 +25,7 @@ People to interview:
 
 Appendix A: Talks
 
+- 2011: Greyscale Press presentation - Lorient
 - 2012: RMLL
 - 2012: On Brenoritvrezorkre and other analogue nightmares
 - 2013: LGM Madrid
