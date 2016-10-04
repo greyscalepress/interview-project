@@ -104,6 +104,8 @@ Another big thing we have been working on since LGM 2013: the UFO support in Fon
 
 **DC** – The basic idea of a font directory is that you have specimen cards for each card. And similarly, in **Metaflop**, which is kind of a Metapolator version one, you also have these three cards, where a glyph palette is showing all letters, then there's another card with one letter scaled up very big, and there's a third card where you can have a couple of lines of text.
 
+((fixme: add screenshot of metaflop))
+
 This is conceptually very similar: you have this main staging area, showing type, to the left you have the sidebar with sliders. The Prototypo user interface is also very much like this: there's a sidebar with sliders, then you have the main stage area, with different views of type at various scales. 
 
 And these tools are all very much focused on the type designer. There's a couple of other tools that I have been interested in, which are for different kinds of users. For myself, as a kind of curator of the Google Fonts library, I am hopeful for a couple of tools to validate the technical quality of the fonts, and manage the process of making updates - this is the **Font Bakery[^bakery]**  tool. And then I'm also interested in validating the *design quality* of the  typefaces, not just the technical quality. 
@@ -142,6 +144,8 @@ Obviously with FontForge, since FontForge is a binary application, this isn't to
 Kernagic has two modes. It has the *table of cadences*, from Frank E. Blokland’s letter model. And then it got Pippin's own independent thinking, which was informed by Frank's model, but is an independent perspective on the whole problem. 
 
 Pippin's gone forward with fonts now, he has also done **Fontile**, which is his "puzzle style interface" for creating pixel fonts. It's pretty amazing stuff really, you see a lot of functionality, in Fontile, which you only see in major web applications, and it's something that he was able to put together in a couple of months. 
+
+((fixme: add photo of fontile demo))
 
 **Kernagic** is a C application, it's TTK2, so it's not that easy to package for Windows or Mac OSX. So the best way to use Kernagic is to run it on a GNU system. And obviously, most type designers are using Mac OSX, so it's got a somewhat limited audience. But the results that designers, like Vernon Adams, achieved with Kernagic are very compelling.
 

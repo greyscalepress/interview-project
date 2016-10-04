@@ -48,9 +48,9 @@ Now, there have been other things added to this collection. It has been expandin
 
 ![Neal Stephenson, *Mother Earth Mother Board*, print-on-demand version released in 2008, one copy.](../content/img/black-holes-p9-motherboard.png)
 
-Some of those books are bootlegs, undercover releases. For instance, this great text by Neal Stephenson [on the screen: *Mother Earth Mother Board*] of which I made a printed edition, illustrated with images which weren’t in the original.
+Some of those books are bootlegs, undercover releases. For instance, this great essay by Neal Stephenson [on the screen: *Mother Earth Mother Board*] of which I made a printed edition, illustrated with images which weren’t in the original.
 
-He’s writing… You know the article? It was published in WIRED magazine in the 90s[^MEMB]. It has been superseded since, but he was mapping the early Internet undersea cables. It’s a really great story, and he always puts in the text the GPS coordinates. So I made an illustrated version with maps that show the locations[^danw].
+He’s writing… You know the article? It was published in WIRED magazine in 1996[^MEMB]. It's an epic travel diary that follows the path of the undersea Internet cables. It’s a really great read, and as a geeky detail, Stephenson includes the GPS coordinates at the beginning of every chapter. So I made an illustrated version, with maps that show the locations[^danw].
 
 [^MEMB]: http://www.wired.com/1996/12/ffglass/
 

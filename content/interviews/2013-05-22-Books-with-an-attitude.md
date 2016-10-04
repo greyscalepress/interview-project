@@ -1,6 +1,6 @@
 # Books with an Attitude
 
-From 22 May until 31 May, 2013, the Libre Graphics Research Unit presents *Books with an attitude*, an exhibition of printed books made with Libre digital tools. This exhibition includes Libre bookdesign and typography from all over Europe, demonstrating how content, aesthetics and Libre tools can play together.
+From 22 May until 31 May, 2013, the Libre Graphics Research Unit presents *Books with an attitude*, an exhibition of printed books made with Libre digital tools. This exhibition includes Libre book design and typography from all over Europe, demonstrating how content, aesthetics and Libre tools can play together.
 
 Location: Maus Hábitos, Porto  
 Exhibition design and curation: Manufactura Independente (Porto)  
@@ -19,15 +19,15 @@ For instance, in an apple – can we see if it contains genetically modified org
 
 With books, it could be the same. Details matter, maybe unconsciously. For typography freaks, the typeface of a book will matter a lot. You will read the novel completely differently if it has been typeset in *sans* or in *serif*. 
 
-The word spacing also makes a difference. For school children, the word spacing is very important. They will learn easier if words have more visible separations. Different software tools do the word spacing differently. They do the hyphenation differently. So, maybe it matters a lot. 
+The word spacing also makes a difference. For school children, the word spacing is very important. They will learn more easily if words have more visible separations. Different software tools do the word spacing differently. They do the hyphenation differently. So, maybe it matters a lot. 
 
-Actually, to know that, we have to look at the books, and we have to compare them. I think when you started doing this library, you didn't really know how it would fit together. It's like when you invite a lot of friends, a lot of people. Friends who don't know each other. You put them in a room, and maybe they will get along and have a good party, or maybe they won't really talk to each other. 
+Actually, to know that, we have to look at the books, and we have to compare them. I think when you started building this library, you didn't really know how it would fit together. It's like when you invite a lot of friends, a lot of people. Friends who don't know each other. You put them in a room, and maybe they will get along and have a good party, or maybe they won't really talk to each other. 
 
 We have to read a little bit, and check out this library to see if it makes sense. If there are common trends, or if it's just random. The interesting thing, if you look at it... [makes a move like preparing to unwrap to library, then stops] ...I will do it after.
 
 [laughter]
 
-**Manuel Schmalstieg** — You will see that there are very, very different books. Novels in many different languages, like in Flemish. Mathematic books, comics. With a lot of different intents, like *made to entertain* or *made exactly not to entertain*. Informative books, or books with disinformation. For some of them, the FLOSS-y aspect of creating them is fundamental and completely part of the layout, like in many works of the OSP team, of which two representatives are here.
+**MS** — You will see that there are very, very different books. Novels in many different languages, like in Flemish. Mathematic books, comics. With a lot of different intents, like *made to entertain* or *made exactly not to entertain*. Informative books, or books with disinformation. For some of them, the FLOSS-y aspect of creating them is fundamental and completely part of the layout, like in many works of the OSP team, of which two representatives are here.
 
 ![Books with an attitude](../content/img/books-attitude.jpg)
 

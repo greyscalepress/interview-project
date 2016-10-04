@@ -16,10 +16,22 @@ People to interview:
 - Heros Limite
 - Stéphanie Pfister
 - Laurent Schmid
+- Raphael Doerig
 - 10111.ORG
 - Lausanne
 - Caroline Vitelli
 - etc
+
+Existing interviews, transcribe and add:
+
+- self interview on NN project, 2004.
+- part of Givan Bela interview.
+- NN interviews with Igor Stromajer, Domiziana Giordano.
+
+Accounts of missed interview opportunities:
+- OSP in Madrid (talk with Pierre on Open Design discourse)
+- Sebastian Luetger at Books in Browsers.
+
 
 ***
 
