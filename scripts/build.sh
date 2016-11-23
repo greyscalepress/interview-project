@@ -8,7 +8,8 @@
 ## 1: We declare some variables
 ## removing Talks for now ../content/talks/*.*
 
-INPUT="../content/meta.txt ../README.md ../content/interviews/*.*  ../content/outro.txt" 
+INPUT="../content/meta.txt ../README.md ../content/interviews/*.md ../content/appendix/*.md  ../content/outro.txt"
+## INPUT="../content/interviews/*.*  ../content/outro.txt" 
 TEMP="../temp/newfile.txt"
 
 TIMESTAMP=$(date -u +%Y%m%d_%H%M%SZ)

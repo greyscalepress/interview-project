@@ -204,23 +204,17 @@ A side note about “spam as books”: writers nowadays can also be SEO aware. Y
 
 **MS** — OK. I wasn’t totally sure how this evening part would go. So I had some little thoughts regarding the general topic of that conference, like the tools, the *Digital Publishing Tool Kit* thing, that I was expecting to see a bite more what it would be. I’m curious when it will be released.
 
-My position as a producer of books between the Web and between the print, taken in that format war that we live in, is that it’s an exciting time. We have lots of unfinished tools around us, lots of tools being developed. It’s a really interesting phase to be working in. Of course, there are things that are really needed and that everybody wants. Nobody’s still got it really right. Maybe they won’t ever be totally right.
+My position as a producer of books between the Web and between the print, taken in that format war that we live in, is that it’s an exciting time. We have lots of unfinished tools around us, lots of tools being developed. It’s a really interesting phase to be working in. Of course, there are things that are much needed and that everybody wants. Nobody’s still got it really right. Maybe they won’t ever be totally right.
 
 Here are my rough notes of things I would love to see in that ecosystem of producing book-like content for print and web.
 
-1944-Silkroad
+I would love to see a *Silkroad* — like the illegal Tor-based anonymous marketplace — where e-books get exchanged and actual books as well.
 
-I would love to see a Silkroad — like the illegal Tor based anonymous marketplace — where e-books get exchanged and actual books as well.
+A *Mesh Network* of booksellers. It would be interesting to talk about this with Alessandro Ludovico. We discussed a bit during the break. He has the same idea in a more precise way. Having booksellers organizing themselves by a powerful software buying system that would be targeted, not to have another giant silo, but to put in contact small local book-selling places.
 
-2004-Mesh-network
+The *Digital Touch Publishing Tool Kit*. Everybody wants it. Everybody has a different idea of how it should work.
 
-A mesh network of booksellers. It would be super interesting to talk about this with Alessandro Ludovico. We talked a bit during the break. He has the same idea in a more precise way. Having booksellers organizing themselves by a powerful software buying system that would be targeted, not to have another giant silo, but to put in contact small local book-selling places.
-
-2021-Rootkit
-
-The Digital Touch Publishing Tool Kit. Everybody wants it. Everybody has a precise idea of how it should be.
-
-Like: it should be command line based, so that you can automate everything. You don’t want to be blocked by the user interface, especially if you want to produce 300,000 books in one step.
+For sure, it should be command-line-based, so that you can automate everything. You don’t want to be blocked by the user interface, especially if you want to produce 300,000 books in one step.
 
 If there is a user interface, make it be a Web user interface. It’s more flexible. It will work on every platform. Be it a tablet or be it a Linux operating system. And you will have lots of coders who know the language to make it work.
 

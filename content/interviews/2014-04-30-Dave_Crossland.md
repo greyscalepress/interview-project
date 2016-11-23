@@ -2,7 +2,7 @@
 
 Interview with Dave Crossland about the floss type design ecosystem, recorded in April 2014. Conducted for *Libre Graphics Magazine*, the Type Issue.
 
-## FontForge 
+## On FontForge 
 
 So, George Williams started FontForge[^fontforge]. He ran it for about ten years. Then, a couple years ago, he lost the interest. From his perspective, it was technically complete. 
 
@@ -22,19 +22,19 @@ This is similar to the way Inkscape emerged from Sodipodi[^Sodipodi]. The Sodipo
 
 He made a program called **Gill**, as in Eric Gill, which was the "Gnome Illustration program". Raph also developed a very simple font editor, which I don't think he ever published. This is about fifteen years ago.
 
-So, Raph moved on, I think he was working around that time on his first PhD, which was on *"Attack-Resistant Trust Metrics"*. And he dropped these projects, stopped developing them.
+Raph moved on, I think he was working around that time on his first PhD, which was on *"Attack-Resistant Trust Metrics"*. And he dropped these projects, stopped developing them.
 
 **Gill**, the SVG editor which he developed, was taken up by Lauris Kaplinski, in Estonia, and was called **Sodipodi**. And then, there was some Americans, who wanted to make the program more user-friendly: key bindings, actually they removed some functionality... this kind of thing. This is how ***Sodipodi*** was forked into **Inkscape**, in 2003.
 
 A couple of years ago, I was looking on **FontForge** in a similiar light. I was keen to start using FontForge to teach type design to beginners. It's technically very complete, but for new users, it has a lot of rough edges.
 
-And so, it isn't much effort to polish that up. Similar to Inkscape, we did the key bindings system, so that all of the hotkeys are defined in one simple text file.
+It isn't much effort to polish that up. Similar to Inkscape, we did the key bindings system, so that all of the hotkeys are defined in one simple text file.
 
-The most recent workshop I ran was at a design school in Sweden called Hyper Island. Obviously most of the students there had swedish keyboards, and so the US keyboard of the FontForge native package wasn't working for them. It was very easy to take ten minutes, and step the class through shutting down FontForge, opening the MacOSX application bundle, navigating to the text file where the hotkeys are defined, and editing the hotkeys.
+The most recent workshop I ran was at a design school in Sweden called Hyper Island. Obviously most of the students there had swedish keyboards, and the US keyboard of the FontForge native package wasn't working for them. It was very easy to take ten minutes, and step the class through shutting down FontForge, opening the MacOSX application bundle, navigating to the text file where the hotkeys are defined, and editing the hotkeys.
 
 ## Realtime collaboration mode
 
-**MS** – Last year, at LGM Madrid (2013), you presented that "Fonts of Doom" collaborative mode in FontForge. How has this evolved?
+**MS** – Last year, at the Libre Graphics Meeting in Madrid (LGM 2013), you presented that "Fonts of Doom" collaborative mode in FontForge. How has this evolved?
 
 **DC** – There has been a lot of tiny little changes made. We redid the icons on the toolbar. We redid the hotkeys. We fixed a lot of crashes. We added that you could interact with the metrics in a more easy way. But I have been fairly shy of actually adding any major features to fontforge.  
 
@@ -50,11 +50,11 @@ The user interface of FontForge is difficult to work on. And working on the Font
 
 One of the things that we did, at LGM 2013, and at the *Interactivos* workshop, the week after the LGM in Madrid, was to work on a web interface to FontForge. And the way that this worked in the collaboration mode was that, everytime someone in the collaboration session does something, if the font is in a buildable state, then the font is built, and pushed, using web sockets, to a web page. So that you have a live *web-document preview* of your typeface, as you're developing it.
 
-So, the way I see the development proceeding, is that we are developing *plugins* for FontForge, for additional functionality.
+The way I see the development proceeding, is that we are developing *plugins* for FontForge, for additional functionality.
 
 ## FontForge Plugins
 
-Making a completely new font editor from scratch has this dilemma that you need all this functionality that is in FontForge, but at the same time, you want the new interface, to do what the new interface can do. To run these things concurrently is ideal.
+**DC** – Making a completely new font editor from scratch has this dilemma that you need all this functionality that is in FontForge, but at the same time, you want the new interface, to do what the new interface can do. To run these things concurrently is ideal.
 
 We started with Lasse Fister’s **iPython**, as a plugin for FontForge, so that you could do interactive scripting development, while running fontforge. 
 
@@ -70,7 +70,7 @@ My preference is the web as a toolkit.
 
 ## Web-based Font Editors
 
-Currently, various web based font editors are being developed. There's *Glyphr Studio*[^glyphr], which is developed by Matt LaGrandeur, a UX designer and developer who works at Microsoft. *Glyphr Studio* is a classic font editor, based very much on the TrueType spec. Even if it has some nice features. 
+**DC** – Currently, various web based font editors are being developed. There's *Glyphr Studio*[^glyphr], which is developed by Matt LaGrandeur, a UX designer and developer who works at Microsoft. *Glyphr Studio* is a classic font editor, based very much on the TrueType spec. Even if it has some nice features. 
 
 [^glyphr]: https://github.com/mattlag/Glyphr-Studio/  
     http://glyphrstudio.com/  
@@ -94,21 +94,17 @@ This being web based, it's a self contained *node.js* application. What I am int
 
 Metapolator is a font family design tool. It's not about drawing the masters - that would be done in FontForge, or any other UFO editor. Metapolator is about multiplying those masters into families. It's very much a type designer's tool, same as Prototypo and Glyphr Studio. 
 
-Another big thing we have been working on since LGM 2013: the UFO support in FontForge. 
+Another big thing we have been working on since LGM 2013: the UFO support in FontForge. It's now working a lot better than it used to. And we started to implement UFO version 3, which at the moment still isn't supported by any other font editors. We will see how that goes. 
 
-**MS** – Is this working now in FontForge?
-
-**DC** – It's working a lot better than it used to. And we started to implement UFO version 3, which at the moment still isn't supported by any other font editors. We will see how that goes. 
-
-**MS** – when at LGM 2014, you pointed out the similarities between the interface of Metapolator (a sidebar with *design* parameters, and a specimen card), and of the Google Fonts directory (a sidebar with *search* parameters, and a specimen card).
+**MS** – At LGM 2014, you pointed out the similarities between the interface of Metapolator (a sidebar with *design* parameters, and a specimen card), and of the Google Fonts directory (a sidebar with *search* parameters, and a specimen card).
 
 **DC** – The basic idea of a font directory is that you have specimen cards for each card. And similarly, in **Metaflop**, which is kind of a Metapolator version one, you also have these three cards, where a glyph palette is showing all letters, then there's another card with one letter scaled up very big, and there's a third card where you can have a couple of lines of text.
 
-((fixme: add screenshot of metaflop))
+![Metaflop](../content/img/metaflop.png)
 
-This is conceptually very similar: you have this main staging area, showing type, to the left you have the sidebar with sliders. The Prototypo user interface is also very much like this: there's a sidebar with sliders, then you have the main stage area, with different views of type at various scales. 
+This is conceptually very similar: you have this main staging area, showing type. To the left you have the sidebar with sliders. The Prototypo user interface is also very much like this: there's a sidebar with sliders, then you have the main stage area, with different views of type at various scales. 
 
-And these tools are all very much focused on the type designer. There's a couple of other tools that I have been interested in, which are for different kinds of users. For myself, as a kind of curator of the Google Fonts library, I am hopeful for a couple of tools to validate the technical quality of the fonts, and manage the process of making updates - this is the **Font Bakery[^bakery]**  tool. And then I'm also interested in validating the *design quality* of the  typefaces, not just the technical quality. 
+These tools are all very much focused on the *type designer*. There's a couple of other tools that I have been interested in, which are for different kinds of users. For myself, as a kind of curator of the Google Fonts library, I am hopeful for a couple of tools to validate the technical quality of the fonts, and manage the process of making updates - this is the **Font Bakery[^bakery]**  tool. And then I'm also interested in validating the *design quality* of the  typefaces, not just the technical quality. 
 
 [^bakery]: License: Apache 2.0 License  
     https://github.com/googlefonts/fontbakery
@@ -131,7 +127,7 @@ That has been working very well, it's now the point when you can design with ((T
 
 **DC** – There is a very simple graphical user interface to TTFAutohint. You can load a font file, and check the boxes with the options, rather than reading a manual and setting it up through the command line. I would expect all these programs to integrate TTFauthint into their build process.
 
-And one of the things I am very excited about in technology is Enscripten, and asm.js. So, Enscripten is transpiler, that allows you to take a C or C++, or even Python, or Lua, or other scripting language program, and it allows you to compile it into Javascript. This allows us to take a lot of existing free software, and run it in the browser. It should be possible to take TTFAutohint, and have that hinting process done as part of a web application.
+And one of the things I am very excited about in technology is **Enscripten**, and asm.js. So, Enscripten is *transpiler*, that allows you to take a C or C++, or even Python, or Lua, or other scripting language program, and it allows you to compile it into JavaScript. This allows us to take a lot of existing free software, and run it in the browser. It should be possible to take TTFAutohint, and have that hinting process done as part of a web application.
 
 **MS** – as part of Metapolator, or whatever?
 
@@ -145,7 +141,7 @@ Kernagic has two modes. It has the *table of cadences*, from Frank E. Blokland�
 
 Pippin's gone forward with fonts now, he has also done **Fontile**, which is his "puzzle style interface" for creating pixel fonts. It's pretty amazing stuff really, you see a lot of functionality, in Fontile, which you only see in major web applications, and it's something that he was able to put together in a couple of months. 
 
-((fixme: add photo of fontile demo))
+![Demonstration of Fontile at LGM 2014](../content/img/lgm/fontile3.jpg)
 
 **Kernagic** is a C application, it's TTK2, so it's not that easy to package for Windows or Mac OSX. So the best way to use Kernagic is to run it on a GNU system. And obviously, most type designers are using Mac OSX, so it's got a somewhat limited audience. But the results that designers, like Vernon Adams, achieved with Kernagic are very compelling.
 

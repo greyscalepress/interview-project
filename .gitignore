@@ -38,6 +38,10 @@ dwsync.xml
 *(Autosaved)*
 *.sla.autosave
 
+# Binary source files #
+###################
+*.pxm
+
 # Folders to ignore
 ###################
 temp

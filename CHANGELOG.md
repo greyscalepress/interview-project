@@ -6,6 +6,7 @@ The format is roughly based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+- adding fragments of the 24h recording of august 2002.
 - changed the order: mixing interviews and talks chronologically.
 
 ## [0.3] - September 09 2016  

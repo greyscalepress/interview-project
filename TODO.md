@@ -22,14 +22,20 @@ People to interview:
 - Caroline Vitelli
 - etc
 
+Default message:
+
+Hello,
+This is a request for ...
+
 Existing interviews, transcribe and add:
 
 - self interview on NN project, 2004.
 - part of Givan Bela interview.
 - NN interviews with Igor Stromajer, Domiziana Giordano.
+- 24h recording
 
 Accounts of missed interview opportunities:
-- OSP in Madrid (talk with Pierre on Open Design discourse)
+- OSP in Madrid (talk with Pierre, on Open Design discourse)
 - Sebastian Luetger at Books in Browsers.
 
 
@@ -40,7 +46,7 @@ Appendix A: Talks
 - 2011: Greyscale Press presentation - Lorient
 - 2012: RMLL
 - 2012: On Brenoritvrezorkre and other analogue nightmares
-- 2013: LGM Madrid
+- 2013: LGM Madrid - DONE
 - 2013: Books In Browsers - DONE
 - 2013: A Winter Night’s Copyright Fairytale
 - 2014: black holes - DONE
@@ -53,3 +59,9 @@ Appendix B: On music - music reviews
 - Crystal Castles
 - Les légions noires
 
+Photos: 
+
+- Off The Press
+- Hackerspaces
+- Internet Archive
+- LGRU laptop survey

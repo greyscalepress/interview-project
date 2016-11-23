@@ -1,25 +1,30 @@
 # The Interview Project
 
-This book is a work-in-progress, launched in the summer of 2016. It gathers transcripts of interviews I have recorded, conducted, or otherwise taken part in, as well as notes and transcripts of talks and conferences. 
+This book is a work-in-progress, launched in the summer of 2016. It gathers transcripts of interviews that I have recorded, conducted, or otherwise taken part in, as well as notes and transcripts of talks and conferences. 
 
 It has been inspired, among others, by Hans-Ulrich Obrist’s *Interview Project[^huo]*, and by a couple of outstanding interview collections, such as: *Playtime* by *F#cking Good Art*; *Conversations[^conv]* by Constant and Christoph Haag; *East Coast Europe* by Markus Miessen[^ECE]...
 
-## Principles:
+## Process:
 
-- Conduct interviews
-- Transcribe them (or use online transcription services)
-- Publish
-- Repeat
+This is the process for building this book:
+
+1. Conduct interviews, ideally one per week
+2. Transcribe them (or use online transcription services)
+3. Publish (update the book, approximately once per month)
+4. Repeat!
 
 ## Background:
 
 Some notes on my interviewing practice. 
 
-During the 1990s : taped interviews conducted for music fanzines (*Crépuscule*, *Transit magazine*), with Das Ich, Velvet Acid Christ, Olivier Moreau, Stelarc, Mother Destruction, Zbigniew Karkowski... Those interviews fulfilled two needs: free access to concerts, and the opportunity to establish a dialogue with artists and music practitioners.
+During the 1990s : taped interviews conducted for music fanzines (*Crépuscule*, *Transit magazine*), with Das Ich, Velvet Acid Christ, Olivier Moreau, Stelarc, Mother Destruction, Zbigniew Karkowski...
 
-October 2001 : dream transcripts from Georgia.
+August 16th 2001: "the absolute interview / 10 small questions about music" is sent out to a number of musicians and sound artists.
+On sept 13 2001, a website is created with the recieved answers, featuring: alec empire, blectum from blechdom, cdatakill, disinformation, hanin elias, multipara, scanner, s.e.t.i., silk saw, third eye foundation, ultra milkmaids, ultra-red.
 
-In the summer of 2002, I performed the *24 Hour Project*: over the span of 24 hours, I produced a continuous 24-hour audio recording, using two minidisc devices.
+October 2001 : minidisk recordings, dream transcripts done in Georgia with members of the General Document collective.
+
+Summer of 2002: I perform the *24 Hour Project*. Over the span of 24 hours, I produce a continuous 24-hour audio recording, using two minidisk devices.
 
 More recently, I conducted web-based interviews with Libre Graphics Magazine (conducted over IRC in 2011), with the Open Source Publishing collective (conducted over Etherpad during the production of the Aether9 book, 2012), and with free type advocate Dave Crossland (conducted over VOIP in 2014).
 

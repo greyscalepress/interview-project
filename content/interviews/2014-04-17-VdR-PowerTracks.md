@@ -26,7 +26,7 @@ C'est très tortueux comme histoire et donc, globalement, j’ai plus de peine �
 
 **VdR** – Non. Ça serait plutôt de prendre des bouts de cette histoire, et de faire des zooms. Mettre en lumière certains aspects de l'exposition, regarder de plus près.
 
-Dans le cas de Eimert, Stockhausen et les débuts de la WDR, l'intérêt c'est évidemment les références au contexte d'immédiat après-guerre, des liens entre création radicale et enjeux politiques. Entre  *«l’invention»* de la musique électronique, et les outils militaires laissés par exemple en Allemagne par les américains.
+Dans le cas de *Eimert, Stockhausen et les débuts de la WDR*, l'intérêt c'est évidemment les références au contexte d'immédiat après-guerre, des liens entre création radicale et enjeux politiques. Entre  *«l’invention»* de la musique électronique, et les outils militaires laissés par exemple en Allemagne par les américains.
 
 Et Dave Tompkins, avec l’histoire du Vocoder, c’est finalement assez proche de Stockhausen et des studios de Cologne, où la création musicale s'inscrit dans un contexte lourdement militaire, où l'imaginaire se nourrit de cet héritage, qui navigue entre la recherche guerrière, les avant-gardes, l'ésotérisme, les politiques culturelles de la guerre froide.
 

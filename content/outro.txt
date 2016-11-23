@@ -1,6 +1,6 @@
-% \part{Notes}
+\part{Notes}
 
-% Notes
+Notes
 
 \newpage
 

@@ -2,6 +2,8 @@
 
 In a meeting in summer 2014, Manuel interviewed Boris about Julian Oliver and Danja Vasiliev’s (of the Critical Engineering Working Group) *NETworkshop* that Boris attended earlier that year.
 
+![](../content/img/NetWorkshop/NetWorkshop_IMG_1957.jpg)
+
 **Manuel Schmalstieg** — Donc, tu parlais du workshop.
 
 **Boris Kish** — Oui, le workshop.
@@ -19,6 +21,8 @@ Il y avait deux ou trois très jolies étudiantes de St-Luc, qui avaient évidem
 Il y avait une série de vieux gars un peu bougons, solitaires. Et puis il y avait des activistes. Et puis il y avait des provinciaux, qui venaient, qui étaient en formation infographique ou des trucs comme ça, dans des centres technologiques dans les villes de province wallonnes, qui étaient plutôt les représentants de Windows. Evidemment, les vieux bougons, ils étaient sur Linux, ainsi que les activistes. 
 
 Et donc, il y avait Julian et Danja. Très complémentaires.
+
+![Julian Oliver commente une adresse MAC](../content/img/NetWorkshop/NetWorkshop_IMG_1985.jpg)
 
 **MS** — J’adore leur style vestimentaire.
 
@@ -39,8 +43,6 @@ C’était rigolo, parce que, du coup, il fallait vraiment compter sur les autre
 Et puis, aussi, ils devaient aussi envoyer toute une doc sur ce qu’on avait fait. Et ils l’ont pas fait... C’est un peu étrange.
 
 **MS** — Ce que vous avez fait, c’était quoi ?
-
-2014-03-31 10.34.43
 
 **BK** — Alors, on a... Qu’est-ce qu’on a fait ? Je me souviens pas ! [rire] 
 
