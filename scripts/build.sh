@@ -9,8 +9,8 @@
 ## removing Talks for now ../content/talks/*.*
 
 INPUT="../content/meta.txt ../README.md ../content/interviews/*.md"
-INPUT="$INPUT ../content/appendix/*.md" 
-INPUT="$INPUT ../content/outro.txt" 
+INPUT+=" ../content/appendix/*.md" 
+INPUT+=" ../content/outro.txt" 
 
 TEMP="../temp/newfile.txt"
 

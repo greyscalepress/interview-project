@@ -32,10 +32,6 @@ If you choose to provide and place your own barcode, be sure it is a high-resolu
 
 ## Spine Calculation
 
-80 * 0.0025 = 0.2 inch    
-120 * 0.0025 = 0.3 inch    
-158 * 0.0025 = 0.395 inch
-
 ## Full cover surface (including bleed):    
 height: 6.8750 (+ 0.25 bleed = 7.125")    
 width: 4.25 + 0.3 + 4.25 = 8.8 (+ 0.25 bleed = 8.25")
@@ -46,19 +42,29 @@ Cover width: 4.25 + 0.2 + 4.25 = 8.7 (+ 0.25 bleed = 8.95")
 start of right page: 4.25+0.2 = 4.45
 
 **120 pages:**
-Spine width: 139 * 0.0025 = 0.3 in
-Cover width: 4.25 + 0.3 + 4.25 = 8.8 (+ 0.25 bleed = 9.05")
-start of right page = 4.55 in 
+Spine width: 0.3 inch
+Cover width: 8.8 inch
+With bleed: 9.05 inch
+Start of right page: 4.55 inch 
 
 **139 pages:**    
-Spine width: 139 * 0.0025 = 0.3475    
-Cover width: 4.25 + 0.3475 + 4.25 = 8.8475 (+ 0.25 bleed = 9.0975")    
-Right page begins at: 4.25 + 0.3475 = 4.5975
+Spine width: 0.3475 inch
+Cover width: 8.8475 inch
+With bleed: 9.0975 inch
+Start of right page: 4.5975 inch
 
 **144 pages:**    
-Spine width: 144 * 0.0025 = 0.36 = move stuff by 0.125 to the right    
-Cover width: 4.25 + 0.36 + 4.25 = 8.86 (+ 0.25 bleed = 9.11")    
-Right page begins at: 4.25 + 0.36 = 4.61
+Spine width: 0.36 inch
+Cover width: 8.86 inch
+With bleed: 9.11 inch
+Start of right page: 4.61 inch
+
+**145 pages:**
+
+Spine width: 0.3625 inch
+Cover width: 8.8625 inch
+With bleed: 9.1125 inch
+Start of right page: 4.6125 inch
 
 **158 pages:**    
 width: 4.25 + 0.395 + 4.25 = 8.895 (+ 0.25 bleed = 9.145")    

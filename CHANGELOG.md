@@ -6,8 +6,11 @@ The format is roughly based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [0.4] - January 23 2016
+
 - adding fragments of the 24h recording of august 2002.
 - changed the order: mixing interviews and talks chronologically.
+- File: Interv-20170123_165223Z.pdf
 
 ## [0.3] - September 09 2016  
 
