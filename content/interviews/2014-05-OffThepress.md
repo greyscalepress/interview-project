@@ -114,31 +114,31 @@ Now, it depends how you define spam. This can be useful for some people probably
 
 [laughter]
 
-**MS** — It’s also kind of poetry, I think. Also there is an algorithm who generates random prices, as you can see. The name of the publisher is Icon Group International.
+**MS** — It’s a form of poetry, I think. There is an algorithm that generates random prices, as you can see. The name of the publisher is Icon Group International.
 
 The last time I looked, I found that he has produced quite a number of books. He has been patient, and Amazon hasn’t been kicking him out, unlike you. So, they consider this to be “good enough” content.
 
 ![Search results for "Icon Group International"](../content/img/black-holes-p24-icon-group.png)
 
-This is how I personally came across that phenomenon: I was looking for documentation about the great conceptual art group **The KLF / K Foundation**. I saw that book and I was very surprised by the cover, because they are famous for having burnt one million british pounds in the 90s. Here, the banknote which is on the cover is not a pound note, but a dollar bill.
+This is how I personally came across that phenomenon: I was looking for documentation about the great conceptual art group **The KLF / K Foundation**. I saw that book [on screen: *K Foundation Burn a Million Quid*] and I was surprised by the cover, because they are famous for having burnt one million *british pounds* in the 90s. Here, the banknote on the cover is not a pound note, but a dollar bill.
 
 ![K Foundation Burn A Million Quid, Alphascript Publishing, 2009](../content/img/black-holes-p25-KLF.png)
 
-There is something very wrong… and actually upon further inspection, this book is a compilation and aggregation of Wikipedia articles by a publisher named **Alphascript Publishing**. I thought that was a really great sounding name, so I researched further. I saw that I had at that time a small number of 17,000 books…
+There was something very wrong… and actually upon further inspection, this book is a compilation and aggregation of Wikipedia articles by an imprint named **Alphascript Publishing**. I thought that was a really lovely name, so I researched further. I saw that they had at that time a small number of 17,000 books…
 
 [laughter]
 
-**MS** — …Which covered a very wide range of topics. After some time, this caught the attention of the Wikipedia community and big debates and emotions arose, wars erupted. This is a brilliant example, “History of Georgia (Country)”. You can guess what the photograph is. It’s Atlanta, so not in the country of Georgia.
+**MS** — …Which covered a very wide array of topics. After some time, this caught the attention of the Wikipedia community and big debates and emotions arose, wars erupted. This is a brilliant example, “History of Georgia (Country)”. You can guess what the photograph is. It’s Atlanta, not Tbilisi.
 
 ![History of Georgia (Country), Alphascript Publishing.](../content/img/black-holes-p29-georgia.png)
 
 **MS** — Those books have been spreading through all those online distribution channels. [on screen: *Modul8*, by Betascript Publishing, at Barnes & Noble] This is a Wikipedia article that I co-wrote, about some video software. And sometimes on the way, passing from one platform to the other, they lose some metadata. [on screen: *Novels By Jerry Pournelle*, at AbeBooks.com] Here, the cover has been lost and it becomes harder and harder to identify, if it’s a serious work of research or documentation, or not.
 
-On Wikipedia, some people have been really passionate about that, have done tons of research. They made a table of all the alternate publisher names that Alphascript Group has been publishing under.
+On Wikipedia, some people have been really passionate about that, have done very deep research. They made a table of all the alternate imprints that Alphascript Group has been publishing under.
 
 ![Table of alternate publisher names](../content/img/black-holes-p34-publisher-names.png)
 
-In order not to be kicked out by Amazon like you, they generated imprint names and they generated editor names.
+In order not to be kicked out by Amazon, they generated random imprint names and fake editor names.
 
 **TraumaWien** — Can I add something?
 
@@ -152,7 +152,7 @@ In order not to be kicked out by Amazon like you, they generated imprint names a
 
 **MS** — OK! So, this has been running for some time. I think now the spam books are appearing less and less and in the search results, but at some moment, it was really massive. And if you were querying for a really obscure topic, you would certainly find some of those spam books in your results.
 
-You see here, they had 350,000 for Betascript Publishing, 180,000 for Alphascript. It was really a serious business. They chose really beautiful author names which the middle initial, which is proven to increase the seriousness and the credibility.
+You see here, they had 350,000 for Betascript Publishing, 180,000 for Alphascript. It was really a serious business. They invented some impressive author names, with a middle initial, which is proven to increase your seriousness and credibility.
 
 [laughter]
 
@@ -160,15 +160,15 @@ You see here, they had 350,000 for Betascript Publishing, 180,000 for Alphascrip
 
 [^initials]: See: van Tilburg W. A. P. and Igou E. R. (2014), *The impact of middle names: Middle name initials enhance evaluations of intellectual performance*, European Journal of Social Psychology, 44, pages 400–411. DOI: 10.1002/ejsp.2026 - http://dx.doi.org/10.1002/ejsp.2026
 
-**Audience Member** – Did anybody purchase them ?
+**Audience member** – Did anybody purchase them ?
 
 **MS** — There are reviews on Amazon. Some people complained that the quality wasn’t what they expected.
 
 [laughter]
 
-**MS** — There were some reviews also by a German guy who is probably running the business. He made some reviews by hand, but he didn’t manage to write reviews as quickly as the books were published. So, strangely, it seems to be harder to automate the reviews than publishing actual titles.
+**MS** — A person sent me a scan of a book she returned, because some unicode glyphs didn't print correctly. There were also some glowing reviews by a German fellow, who is probably running the business. But he didn’t manage to keep up with the number of books being published. Strangely, it seems harder to automate the reviews than publishing actual titles.
 
-Proof that this spam actually does work on a certain scale is that, if you go into any university nowadays, and search for Alphascript Publishing, there are big chances that you will find some titles in the university book shelves. This was where I live in Neuchâtel, Switzerland. So they had some books on really precise topics.
+Another proof that this spam does work on a certain scale is that, if you go into any university library, and search for Alphascript Publishing, there are big chances that you will find some titles in the university book shelves. This was where I live in Neuchâtel, Switzerland. So they had some books on really precise topics.
 
 ![Alphascript books in the University library of Neuchâtel.](../content/img/black-holes-p36-unine.png)
 

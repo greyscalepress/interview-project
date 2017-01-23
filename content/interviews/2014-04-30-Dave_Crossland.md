@@ -42,13 +42,15 @@ This is the irony: everyone's like "Wow, Fontforge is so much better than two ye
 
 About a year and a half ago, I proposed to add a major feature to Fontforge, to see how that would go. So we added this realtime collaboration feature, which hijacks the *undo* system, and uses the ZeroMQ library to basically broadcast the undo stack across a network. So that people can have a realtime collaboration experience.
 
-This threw up all kinds of problems, it crashed a lot, it was pretty difficult for Dr Ben Martin to develop. He has a PhD in computer science, and he could do it. But there's very few other people in the world, comparatively, wo can contribute to that codebase. So it's been a bit of a dead end, because if I can raise money, through running workshops or other means, to fund development, then it's ok. But that's relatively difficult to do. Whereas, if it was a web application, then there's millions times more people who have web development skills, and who will also be users of a font editor. Not every user has development skills... but enough users would have those skills, and would be able to contribute directly to the improvement of the editor. 
+This threw up all kinds of problems, it crashed a lot, it was pretty difficult for Dr Ben Martin to develop. He has a PhD in computer science, and he could do it. But there's very few other people in the world, comparatively, wo can contribute to that codebase. 
+
+So it's been a bit of a dead end, because if I can raise money, through running workshops or other means, to fund development, then it's ok. But that's relatively difficult to do.
 
 After Madrid, we had a working basic prototype level, so I could do the demo on stage, and it basically works. If you set it up right, then it works very well. We polished it up a little bit after the LGM 2013, but we didn't really make it rock solid. 
 
 The user interface of FontForge is difficult to work on. And working on the Fontforge user interface toolkit doesn't just make any sense whatsoever. Because *the web* is the default dominant user interface toolkit for software these days. That leads me to the conclusion that we should be writing *web based* font editors. 
 
-One of the things that we did, at LGM 2013, and at the *Interactivos* workshop, the week after the LGM in Madrid, was to work on a web interface to FontForge. And the way that this worked in the collaboration mode was that, everytime someone in the collaboration session does something, if the font is in a buildable state, then the font is built, and pushed, using web sockets, to a web page. So that you have a live *web-document preview* of your typeface, as you're developing it.
+One of the things that we did, at LGM 2013, and at the *Interactivos* workshop, the week after the LGM in Madrid, was to work on a web interface to FontForge. And the way that this worked in the collaboration mode was that, everytime someone in the work session does something, if the font is in a buildable state, then the font is built - and pushed, using web sockets, to a web page. You have a live *web-document preview* of your typeface, as you're developing it.
 
 The way I see the development proceeding, is that we are developing *plugins* for FontForge, for additional functionality.
 
@@ -86,11 +88,17 @@ Then there is *Prototypo*[^prototypo], which has been running a successful kicks
 
 **DC** – In web developement, there's been hundreds of templating syntaxes developed over the last years. The one which has really come to dominate is called Mustache. There's lot of derivatives of the Mustache syntax. Liquid Templates is also quite popular.
 
-Prototypo is putting that kind of templating together with SVG. So you can have a SVG path syntax, and the point positions, the x and y positions on an SVG path, rather than being defined literally as integer values, are defined through a templating syntax. That gives you an algebra-equation power of specifying point positions, parametrically.
+Prototypo is putting that kind of templating together with SVG[^SVG]. So you can have a SVG path syntax, and the point positions, the x and y positions on an SVG path, rather than being defined literally as integer values, are defined through a templating syntax. That gives you an algebra-equation power of specifying point positions, parametrically.
+
+[^SVG]: Scalable Vector Graphics, a file format for vector graphics. The standard is being developed by a W3C working group.
 
 This being web based, it's a self contained *node.js* application. What I am interested in doing, is making that kind of thing possible to turn into a FontForge plugin. So that you would be able to click "export" in the web app, and then have that immediately appear in FontForge.
 
-**Metapolator** is in a very similar position to this. Simon Egli has done quite a lot of research into Metafont, how Metafont could be used in a way which would be more accessible to designers. Metapolator imports and exports UFO fonts, so it can fit into any UFO-based workflow. It has a parser, which parses UFO into Metafont, and allows you to store Metafont parameters and values in the UFO format. This means that you can "round trip" fonts in and out of Metapolator, into any UFO tool.
+## Design tools for font families
+
+**Metapolator** is in a very similar position to this. Simon Egli has done quite a lot of research into Metafont, how Metafont could be used in a way which would be more accessible to designers. Metapolator imports and exports UFO fonts[^UFO], so it can fit into any UFO-based workflow. It has a parser, which parses UFO into Metafont, and allows you to store Metafont parameters and values in the UFO format. This means that you can "round trip" fonts in and out of Metapolator, into any UFO tool.
+
+[^UFO]: A file format for fonts (like TTF, OTF), used by many modern font editors (Robofont, Glyphs...).
 
 Metapolator is a font family design tool. It's not about drawing the masters - that would be done in FontForge, or any other UFO editor. Metapolator is about multiplying those masters into families. It's very much a type designer's tool, same as Prototypo and Glyphr Studio. 
 
@@ -98,7 +106,7 @@ Another big thing we have been working on since LGM 2013: the UFO support in Fon
 
 **MS** – At LGM 2014, you pointed out the similarities between the interface of Metapolator (a sidebar with *design* parameters, and a specimen card), and of the Google Fonts directory (a sidebar with *search* parameters, and a specimen card).
 
-**DC** – The basic idea of a font directory is that you have specimen cards for each card. And similarly, in **Metaflop**, which is kind of a Metapolator version one, you also have these three cards, where a glyph palette is showing all letters, then there's another card with one letter scaled up very big, and there's a third card where you can have a couple of lines of text.
+**DC** – The basic idea of a font directory is that you have specimen cards for each typeface. And similarly, in **Metaflop**, which is kind of a Metapolator version one, you also have these three cards, where a glyph palette is showing all letters, then there's another card with one letter scaled up very big, and there's a third card where you can have a couple of lines of text.
 
 ![Metaflop](../content/img/metaflop.png)
 
