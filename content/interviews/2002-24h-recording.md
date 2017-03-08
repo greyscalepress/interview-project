@@ -1,8 +1,12 @@
 # 24h00m00s
 
+"Je suis venu parce que je suis en train de faire un enregistrement continu de 24 heures."
+
 On August 18th 2002 at 8 PM (Central European Time), I started a 24-hour non-stop recording of my surroundings and everyday activities. The project resulted in a modest object: a CD-ROM containing the 24 recorded hours in the form of a 680 Mb mp3 file.
 
 The equipment used for the recording was very simple: two minidisk recorders (recording in alternance) and twelve minidisks (each holding two hours in mono mode). During 24 hours, the following events were recorded: a trip to the Geneva airport to welcome a friend returning from Russia (carrying a suitcase full of vodka, garlic, and fine russian techno), the last 30 seconds of a concert by Jimmy Tenor near the lake, a trip to the Salève mountain at dawn, two hours of sleep, a meeting with sound artist Rudy Decelière, a guitar improvisation by Pierre Omer at Rhino, the serial numbers of various music softwares, a jam session with Wania Jaikin using Nanoloop (a music sequencer for the gameboy), and finally the first five minutes of “Mauvais Sang” by Leos Carax.
+
+\newpage
 
 ## Fragmented transcriptions:
 
@@ -34,6 +38,8 @@ avec Rudy Decelière
 1:24 récit de rêve (MS)
 (...) 
 
+\newpage
+
 **MD 8:**  
 9min, récit sur un récent voyage en Lettonie (Riga, Karosta)
 
@@ -57,15 +63,11 @@ Une autre rencontre mémorable. (..) Un jeune gars qui fait des vidéos. Visite 
 
 Et donc, ce bonhomme, son père, c'était un personnage digne d'un film. Une tête incroyable. Une sorte de tête d'écolier, de cancre, en train de préparer un mauvais coup. Des yeux pétilliants, des cheveux ébouriffés à la Beckett. Il se baladait toujours torse nu, une musculature très nerveuse. Ça pourrait être un personnage de film d'aventure. Il nous racontait des histories dans un anglais.. Je pense qu'il parlait bien anglais dans le temps. Il utilisait des termes très précis. Il parlait un peu allemand. Russe avec mon pote. Et letton. Il était toujours un peu bourré. Il fallait qu'on boive un verre de vodka dès le matin. Il nous racontait par exemple comment il était marin, inspecteur de douane - il devait inspecter les bâteaux qui arriviaient dans le port de Riga. C'était là qu'il avait appris l'anglais. Il nous expliquait qu'il avait des problèmes de communication dans deux cas seulement - avec les chinois, qui parlaient un anglais incompréhensible. Et avec les britanniques, pour la même raison.
 
-Et il racontait des histoires sur la guerre. Il me disait qu'il fallait que je lise Sokourov, "The Icebreaker". C'était un passionné d'histoire, il lisait beaucoup sur l'époque de Staline. Il nous racontait comment, durant les années 40, les arbres sur la côte avaient été rasés par les bombardements. Il était gamin à l'époque. C'était l'endroit où le front Russo-Allemand se déplaçait sans arrêt. Auparavant, c'était des forêts utilisées pour faire des bâteaux.
+Et il racontait des histoires sur la guerre. Il m'a conseillé de lire Sokourov, "The Icebreaker". C'était un passionné d'histoire, il lisait beaucoup sur l'époque de Staline. Il nous racontait comment, durant les années 40, les arbres sur la côte avaient été rasés par les bombardements. Il était gamin à l'époque. C'était l'endroit où le front Russo-Allemand se déplaçait sans arrêt. Auparavant, c'était des forêts utilisées pour faire des bâteaux.
 
 **Diego:** Il s'est passé tellement de choses dans ces endroits. 
 
-***
-
-"Je suis venu parce que je suis en train de faire un enregistrement continu de 24 heures."
-
-***
+\newpage
 
 **MD9:**  
 Thé chinois de la Rue des Bains.  
@@ -84,7 +86,7 @@ Déplacement à Rue de la Servette, avec Wania et Laurent.
 
 **Laurent:** Et ensuite?
 
-**Manuel:** Ensuite, soit tu fais des sons. En faisant comme ça, tu choisis un de tes instruments. Il y en a trois. Un qui s'appelle S, un synthé. Un qui s'appelle R, qui est aussi une sorte de synthé. Et un qui s'appelle N, qui est plutôt une sorte de bruit, pour faire des rythmes.
+**Manuel:** Ensuite, tu fais des sons. En faisant comme ça, tu choisis un de tes instruments. Il y en a trois. Un qui s'appelle S, un synthé. Un qui s'appelle R, qui est aussi une sorte de synthé. Et un qui s'appelle N, qui est plutôt une sorte de bruit, pour faire des rythmes.
 
 Ensuite, pour faire les sons, tu choisis parmi ces trucs, en allant de gauche à droite. Ça, c'est l'attaque. C'est le pitch. Et à droite c'est Pan, gauche-droite. Et pour faire quelque chose avec un de ces sons, tu entres dans ce système de pistes, et tu choisis l'endroit où tu veux aller, tu appuyes sur A, et tu bouges ça. Voilà, un joli son.
 
