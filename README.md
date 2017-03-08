@@ -1,8 +1,8 @@
 # The Interview Project
 
-This book is a work-in-progress, launched in the summer of 2016. It gathers transcripts of interviews that I have recorded, conducted, or otherwise taken part in, as well as notes and transcripts of talks and conferences. 
+This book is a work-in-progress, launched in the summer of 2016. It gathers transcripts of interviews, talks and conferences that I have recorded, conducted, or otherwise taken part in. 
 
-It has been inspired, among others, by Hans-Ulrich Obrist’s *Interview Project[^huo]*, and by a couple of outstanding interview collections, such as: *Playtime* by *F#cking Good Art*; *Conversations[^conv]* by Constant and Christoph Haag; *East Coast Europe* by Markus Miessen[^ECE]...
+It was inspired, among others, by Hans-Ulrich Obrist’s *Interview Project[^huo]*, and by a couple of outstanding interview collections, such as: *Playtime* by *Fucking Good Art*; *Conversations[^conv]* by Constant and Christoph Haag; *East Coast Europe* by Markus Miessen[^ECE]...
 
 ## Process:
 
@@ -17,10 +17,10 @@ This is the process for building this book:
 
 Some notes on my interviewing practice. 
 
-During the 1990s : taped interviews conducted for music fanzines (*Crépuscule*, *Transit magazine*), with Das Ich, Velvet Acid Christ, Olivier Moreau, Stelarc, Mother Destruction, Zbigniew Karkowski...
+During the 1990s : taped interviews conducted for music fanzines (*Crépuscule*, *Transit*), with numerous electronic music acts: Kid606, Velvet Acid Christ, Das Ich, Olivier Moreau, Stelarc, Mother Destruction, Zbigniew Karkowski...
 
-August 16th 2001: "the absolute interview / 10 small questions about music" is sent out to a number of musicians and sound artists.
-On sept 13 2001, a website is created with the recieved answers, featuring: alec empire, blectum from blechdom, cdatakill, disinformation, hanin elias, multipara, scanner, s.e.t.i., silk saw, third eye foundation, ultra milkmaids, ultra-red.
+August 16th 2001: "the absolute interview / 10 small questions about music" is sent out to a number of musicians and sound artists.  
+On sept 13 2001, a website is created with the recieved answers, featuring Alec Empire, Blectum From Blechdom, cdatakill, Disinformation, Hanin Elias, Multipara, scanner, s.e.t.i., Silk Saw, Third Eye Foundation, Ultra Milkmaids, Ultra-red.
 
 October 2001 : minidisk recordings, dream transcripts done in Georgia with members of the General Document collective.
 

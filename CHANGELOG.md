@@ -6,6 +6,8 @@ The format is roughly based on [Keep a Changelog](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+- Adding some page breaks.
+
 ## [0.4] - January 23 2016
 
 - adding fragments of the 24h recording of august 2002.
