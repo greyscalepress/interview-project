@@ -2,7 +2,7 @@
 
 %% based on default latex template for pandoc-1.14.0.1-osx
 
-% Start Interview Template Customization
+%% Start Interview Template Customization
 
 \usepackage[
   paperheight=6.875in,
@@ -10,10 +10,14 @@
   top = 1.8cm, 
   bottom = 1.4cm, 
   left = 2cm, 
-  right = 1.2cm, 
+  right = 1.3cm, 
   footskip = 0.8cm, 
   marginparwidth = 0cm, 
   marginparsep = 0cm]{geometry}
+
+%% On margins: books from 151 - 300 pages require at least .5" for the gutter (inside margin) and at least .25" for the outside, top and bottom margins.
+%% .5" = 1.27 cm
+%% .25" = 6.35 mm
 
   
 \setcounter{secnumdepth}{-1}
