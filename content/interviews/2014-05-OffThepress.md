@@ -10,9 +10,11 @@ A talk (on behalf of the Greyscale Press publishing project) given at the Off Th
 
 **Silvio Lorusso** — You did.
 
-**MS** — OK. I am super happy to be here in WORM, finally in real. I have been here a few times, but virtually through video projections and through the interwebs. Now, it’s great to be here live. It’s a great space.
+**MS** — OK. I am so happy to be here in WORM, finally for real. I have been here a few times, but virtually through video projections and through the interwebs. Now, it’s great to be here live. It’s a great space.
 
-What I am talking about here, actually this title — Black Holes in the Gutenberg Galaxy — I decided to change it. I came across a new concept by reading the little glossary that Silvio has put together on some piratepad somewhere. Actually, we should share it with the audience, maybe.
+What I am talking about here, actually this title — Black Holes in the Gutenberg Galaxy — I decided to change it. I came across a new concept by reading the little glossary that Silvio has put together on some piratepad somewhere.[^pdpa] Actually, we should share it with the audience, maybe.
+
+[^pdpa]: p-dpa.titanpad.com/1 - see the last pages of this book.
 
 **SL** — Oh, yeah!
 
@@ -169,7 +171,7 @@ You could argue that the person who acquired those titles didn’t pass the spam
 
 Those are two titles that I got from the library, just to be sure that they really exist, and they do. They aren’t that different optically from traditional academic publishing. And here I photographed them in front of the gravestone of Jorge Luis Borges, the inventor of the *Library of Babel*, just to make that little connection.
 
-1710-JL-Borges
+[on screen: tombstone of JL Borges at Cimetière Saint-Georges, Geneva]
 
 A side note about “spam as books”: writers nowadays can also be SEO aware. You know, *Search Engine Optimization*. That’s also a way to attract an audience for your titles, like giving them a title that is relatively close to an existing best seller. This isn’t a big movement on Amazon, so it’s not as massive as the Wikipedia generated spam.
 
@@ -182,8 +184,6 @@ A side note about “spam as books”: writers nowadays can also be SEO aware. Y
 [laughter]
 
 **MS** — Or that one. “I am The Girl With the Dragon Tattoo”.
-
-![](../content/img/black-holes-p43-dragontatoo.png)
 
 [laughter]
 

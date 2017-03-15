@@ -14,9 +14,9 @@ It's a very personal process to find the appropriate font for a specific text, f
 
 Your choice will be very dependent on the subject, on the language also. The texture of type changes with different languages. It can have a temperature. A font can be sharp, or thick. Fast, or slow. 
 
-For that, already centuries ago, since we have type, producers of typefaces have designed specimen sheets. Here is a classic example by the great William Caslon. 
+For that, already centuries ago, since we have type, producers of typefaces have designed specimen sheets. Here is an 18th Century example by the great typefounder William Caslon. 
 
-![Specimen by William Caslon (date?)](../content/img/specimen-book/caslon-specimen.png)
+![Specimen sheet by William Caslon (1728)](../content/img/specimen-book/caslon-specimen.png)
 
 We can see a pattern here that we still use nowadays. A specimen sheet on Google Web Fonts looks very similar to this. You have different weights, you have short paragraphs, different sizes, showcasing all the different cuts.
 
@@ -30,29 +30,33 @@ For me, this was always very frustrating. It was like if you would be a musician
 
 For a strange reason, they stopped producing the book recently. Apparently, print is too expensive. They made an iPad app. So you cannot actually test those fonts on paper -- which, for me, when you make a paper project, is essential because it works completely different than on screen. 
 
-There is another interesting font specimen collection, the "Free Font Index" by Hans Lijklema. It gathers lots of free fonts, but doesn't make a distinction between *FREE* and *LIBRE*, which is an important point. It also puts many fonts on a limited number of pages, which is not always that useful. And it juxtaposes fonts that may not match in terms of style. 
+There is another interesting font specimen collection, the "Free Font Index" by Hans Lijklema. It gathers lots of free fonts, but doesn't make a distinction between *Free* and *Libre*, which is an important point. It also puts many fonts on a limited number of pages, leaving litte space to appreciate divers body sizes. And it juxtaposes fonts that may not match in terms of style. 
 
 ![The Free Font Index](../content/img/specimen-book/freefont-sample2-143.jpg)
 
-I think those books are useful. They show you many different fonts. But they have some issues: too little space for a font, always the same "lorem ipsum" repeating all the time, so it starts to be quite annoying and distracting at some point.
+I think those books are useful. They show you many different fonts. But they have some issues: too little space for a font, always the same "lorem ipsum" repeating all the time, so it starts to feel quite unnatural, and you don't get the impression of a real body copy.
 
 Then, another category that appeared recently is print-on-demand books made by independent type producers. This one is made by Radim Peško, a Czech type designer. Another one is made by French type designer Jean-Baptiste Levée. 
 
 ![Specimen book by Radim Peško](../content/img/specimen-book/interior-1-156.jpg)
 
-We can see that they have one thing in common, they love to show the fonts very, very big, so you can appreciate the beauty of the curves and of the glyphs, which is very nice and impressive, but for many use cases, like doing books or magazines, it's really not useful. You have too little paragraph size text, too much big type. 
+We can see that they have one thing in common: they love to display the fonts in very big sizes, so you can appreciate the beauty of the curves and angles of each glyph. This makes them great for type design study, but for many use cases, like doing books or magazines, it's really not useful. You have too little paragraph size text, too much big type. 
 
-The logical thing to do, if you work with Libre fonts, is to do your own specimen book. There are lots of open source fonts. You have print on demand technology, so just do it!
+The logical thing to do, if you work with Libre fonts, is to produce your own specimen book. There are thousands of open source fonts. You have print on demand technology – so just do it!
 
 This would be extremely expensive if you would want to make your own printed specimen book with commercial fonts. You would have to be really rich. But now, today, it is possible to do. 
 
 I had that idea in mind one year ago. It was clear to me that this had to be a collaborative project, not one person sitting for months doing it, but rather a book sprint, a group of 5-10 people gathering and doing it. 
 
-I started to pitch a bit and I talked about it at the latest RMLL conference in Geneva in summer 2012. I thought it would be a really, really good idea to do that with design students. I managed to get a gig at the Design Department at HEAD Geneva. I had a workforce of 12 students to work for one week on that project. 
+I started to pitch the idea, and I talked about it at the RMLL[^RMLL] conference in Geneva in summer 2012. I thought it would be a really, really good idea to do that with design students. I managed to get a gig at the Design Department at HEAD Geneva. I had a workforce of 12 students to work for one week on that project.
+
+[^RMLL]: Rencontres Mondiales du Logiciel Libre.
 
 ![The workshop team](../content/img/specimen-book/the-team.jpg)
 
-We established some rules. To use exclusively Libre fonts, that allow any type of the Four Freedoms. To focus on *body text*, text that can be used for long form. And to make the book as open as we can, which means: sharing the sources, documenting everything, using an open format. That were the main three bullet points.
+We established some rules. To use exclusively *Libre* fonts, that allow all of the Four Freedoms[^Freedoms]. To focus on *body text*, text that can be used for long form. And to make the book as open as we can, which means: sharing the sources, documenting everything, using an open format. That were the main three bullet points.
+
+[^Freedoms]: ‘the four freedoms’ of the Free Software Foundation. These are the freedoms to *use*, *study*, *modify* and *redistribute*.
 
 The first step was that the students had to produce a standardized specimen layout. This involved a lot of research during the first two and a half days, with many different approaches, different formats, different graphic attempts. Lots of discussions, lot of criticism.
 

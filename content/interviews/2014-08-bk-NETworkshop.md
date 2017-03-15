@@ -24,13 +24,9 @@ Et donc, il y avait Julian et Danja. Très complémentaires.
 
 ![Julian Oliver commente une adresse MAC](../content/img/NetWorkshop/NetWorkshop_IMG_1985.jpg)
 
-**MS** — J’adore leur style vestimentaire.
+**MS** — J’adore leur style vestimentaire!
 
-**BK** — Oui, oui. Ils ont un style monstrueux. Il y avait la copine de Julian qui est passée aussi… en tout cas, une copine de lui, qui semblait très proche. Extrêmement stylée. Elle n'a pas dit un mot, jamais. Jamais frayé avec les gens.
-
-**MS** — Néo-zélandaise ?
-
-**BK** — Elle avait pas l’air. Elle parlait anglais. Mais elle avait plutôt un type asiatique. Ils avaient l’air d’être très contents, les deux, d’être là en général, et de partager tout ça. Ils avaient l'air très contents. Très excités en général, très énergiques. 
+**BK** — Oui, oui. Ils ont un style monstrueux. Ils avaient l’air d’être très contents, les deux, d’être là en général, et de partager tout ça. Ils avaient l'air très contents. Très excités en général, très énergiques. 
 
 Évidemment, il y avait des gens qui connaissaient le code, à différents niveaux. D'autres gens absolument pas, ils n'avaient jamais écrit une ligne de code de leur vie. Plutôt proche de moi. 
 
@@ -38,7 +34,7 @@ C’était rigolo, parce que, du coup, il fallait vraiment compter sur les autre
 
 **MS** — Il y avait des rencontres intéressantes ?
 
-**BK** — Pas pour moi, non, j’ai pas *rencontré* des gens… Mais, attends, comment il s’appelle ce gars ? Il me semble que c’est un gars qu’on avait déjà vu à l’iMAL, qui faisait un truc de radio. C’est un gars qui étaint dans le son. Il y avait plusieurs gars et filles qui étaient dans le son, plutôt des français. Mais, par contre, ce qui est un peu décevant aussi, c’est qu’il y avait une mailing-liste, mais il y a jamais rien eu. J’ai jamais été tenu au courant de quoi que ce soit, sur les activités de Julian et Danja.  
+**BK** — Pas pour moi, non, j’ai pas *rencontré* des gens… Mais, attends, comment il s’appelle ce gars ? Il me semble que c’est un gars qu’on avait déjà vu à l’iMAL, qui faisait un truc de radio. C’est un gars qui était dans le son. Il y avait plusieurs gars et filles qui étaient dans le son, plutôt des français. Mais, par contre, ce qui est un peu décevant aussi, c’est qu’il y avait une mailing-liste, mais il y a jamais rien eu. J’ai jamais été tenu au courant de quoi que ce soit, sur les activités de Julian et Danja.  
 
 Et puis, aussi, ils devaient aussi envoyer toute une doc sur ce qu’on avait fait. Et ils l’ont pas fait... C’est un peu étrange.
 

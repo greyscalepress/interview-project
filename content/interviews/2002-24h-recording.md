@@ -1,17 +1,17 @@
 # 24h00m00s
 
-"Je suis venu parce que je suis en train de faire un enregistrement continu de 24 heures."
+*"Je suis venu parce que je suis en train de faire un enregistrement continu de 24 heures."*
 
-On August 18th 2002 at 8 PM (Central European Time), I started a 24-hour non-stop recording of my surroundings and everyday activities. The project resulted in a modest object: a CD-ROM containing the 24 recorded hours in the form of a 680 Mb mp3 file.
+On August 18th 2002 at 8 PM (CET), I started a **24-hour non-stop recording** of my surroundings and everyday activities. The project resulted in a modest object: a CD-ROM containing the 24 recorded hours in the form of a 680 Mb mp3 file.
 
-The equipment used for the recording was very simple: two minidisk recorders (recording in alternance) and twelve minidisks (each holding two hours in mono mode). During 24 hours, the following events were recorded: a trip to the Geneva airport to welcome a friend returning from Russia (carrying a suitcase full of vodka, garlic, and fine russian techno), the last 30 seconds of a concert by Jimmy Tenor near the lake, a trip to the Salève mountain at dawn, two hours of sleep, a meeting with sound artist Rudy Decelière, a guitar improvisation by Pierre Omer at Rhino, the serial numbers of various music softwares, a jam session with Wania Jaikin using Nanoloop (a music sequencer for the gameboy), and finally the first five minutes of “Mauvais Sang” by Leos Carax.
+The equipment used for the recording was very simple: two minidisk recorders (recording in alternance) and twelve minidisks (each holding two hours in mono mode). During 24 hours, the following events were recorded: a trip to the Geneva airport to welcome a friend returning from Russia (carrying a suitcase full of vodka, garlic, and fine russian techno), the last 30 seconds of a concert by Jimmy Tenor near the lake, a trip to the Salève mountain at dawn, two hours of sleep, a meeting with sound artist Rudy Decelière, a guitar improvisation by Pierre Omer at Rhino, the serial numbers of various multimedia software packages, a jam session with Wania Jaikin using Nanoloop (a music sequencer for the GameBoy), and finally the first 5 minutes of watching a VHS copy of “Mauvais Sang” by Leos Carax.
 
 \newpage
 
 ## Fragmented transcriptions:
 
 **md1_3:**  
-Objectifs pour Amélie Poulain:  
+Objectifs de caméra pour Amélie Poulain:  
 9:32
 
 Goulart vient de rentrer d'Uruguay.
