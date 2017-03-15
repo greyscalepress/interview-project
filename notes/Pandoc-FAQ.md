@@ -64,3 +64,22 @@ Available sizes:
 \huge
 \Huge
 
+### Allow long URLs to break
+
+Long URLs will break at the end of line if they contain a hyphen, otherwise they won't break.
+
+Workaround:
+
+Use the [zero-width space](https://en.wikipedia.org/wiki/Zero-width_space) character:
+
+In LaTeX: \hspace{0pt}  
+In TeX: \hskip0pt
+
+Both methods work in Pandoc.
+
+This URL will be too long:  
+https://twitter.com/florian_cramer/status/474683019002130433
+
+This one will allow line break:
+
+[https://twitter.com/\hspace{0pt}florian_cramer/status/474683019002130433](https://twitter.com/florian_cramer/status/474683019002130433)
