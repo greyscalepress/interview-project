@@ -2,7 +2,7 @@
 
 This book is a work-in-progress, launched in the summer of 2016. It gathers transcripts of interviews, talks and conferences that I have recorded, conducted, or otherwise taken part in. 
 
-It was inspired, among others, by Hans-Ulrich Obrist’s *Interview Project[^huo]*, and by a couple of outstanding interview collections, such as: *Playtime* by *Fucking Good Art*; *Conversations[^conv]* by Constant and Christoph Haag; *East Coast Europe* by Markus Miessen[^ECE]...
+It was inspired, among others, by Hans-Ulrich Obrist’s *Interview Project[^huo]*, and by a couple of outstanding interview collections, such as: *Playtime* by Fucking Good Art; *Conversations[^conv]* by Constant and Christoph Haag; *East Coast Europe* by Markus Miessen[^ECE]...
 
 ## Process:
 

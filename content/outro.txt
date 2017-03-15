@@ -47,7 +47,8 @@ Notes
 Version 0.1 completed July 19 2016  
 Version 0.2 completed August 19 2016  
 Version 0.3 completed September 09 2016  
-Version 0.4 (current) completed January 20 2017  
+Version 0.4 completed January 20 2017
+Version 0.5 (current) completed March 15 2017  
 
 Greyscale Press
 

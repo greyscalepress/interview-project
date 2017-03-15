@@ -56,13 +56,13 @@ END {
 ## "Sophia Nubian"
 ## "Limousine" - by OSP Foundry
 ## Monoid - by Andreas Larsen
-## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co.
+## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co. ... HKGroteskPro-Bold ... HKSerif-Bold ... HKGrotesk-Italic ... HKSerif-Italic
 
 pandoc -f markdown --template=../templates/custom $TEMP \
 	--latex-engine=xelatex \
     --variable mainfont="HKSerif-Regular" \
-    --variable boldfont="HKSerif-Bold" \
-    --variable italicfont="HKSerif-Italic" \
+    --variable boldfont="HKGroteskPro-Bold" \
+    --variable italicfont="HKGrotesk-Italic" \
     --variable sansfont="HK Grotesk Pro" \
     --variable fontsize=9pt \
     --variable urlcolor=black \
