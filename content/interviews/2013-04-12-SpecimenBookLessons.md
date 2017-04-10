@@ -6,7 +6,7 @@ In this post, I am trying to formalize a few practical lessons from the Libre Ty
 
 Here are some raw notes about things that worked great, or could be improved.
 
-## 1: forming the working groups
+## 1: forming the working groups
 
 This was an important step in the process: in the very beginning, we defined the main work areas that were needed to achieve the target (i.e. produce a comprehensive type specimen catalog of open source fonts, in five days). I wrote those areas on sticky notes, posted them on a wall. Then each participant wrote his name on a sticky note, and added himself to one of the work areas.
 
@@ -16,7 +16,7 @@ We didn’t actually consult this pinboard during the week, since everybody knew
 
 We could have made that board more useful, so that it would serve as a graph of « what has been done, what needs still to be done ». A work process visualization, with accomplished tasks being checked off.
 
-## 2: tools
+## 2: tools
 
 I brought along a few basic things: Post-It sticky notes of various colors and formats, colored tape, black markers. I printed a schedule of the week, which I distributed to each participant. I printed a table where the participants could enter their names, phone nrs and emails. It was another way to formalize the participants’ involvement in the workshop – there was a written record of their presence.
 
@@ -30,7 +30,7 @@ We could see that we weren’t working in a vacuum. It showed real-world applica
 
 Participants should be encouraged – from the first day – to bring along their own reference books. Also, add a pair of scissors and a ruler on the list of materials.
 
-## 3: photo documentation
+## 3: photo documentation
 
 Put two people in charge of photo-documentation.
 

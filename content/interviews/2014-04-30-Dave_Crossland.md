@@ -2,7 +2,7 @@
 
 Interview with Dave Crossland about the floss type design ecosystem, recorded in April 2014. Conducted for *Libre Graphics Magazine*, the Type Issue.
 
-## On FontForge 
+## On FontForge 
 
 So, George Williams started FontForge[^fontforge]. He ran it for about ten years. Then, a couple years ago, he lost the interest. From his perspective, it was technically complete. 
 
@@ -135,7 +135,7 @@ That has been working very well, it's now the point when you can design with ((T
 
 **DC** – There is a very simple graphical user interface to TTFAutohint. You can load a font file, and check the boxes with the options, rather than reading a manual and setting it up through the command line. I would expect all these programs to integrate TTFauthint into their build process.
 
-And one of the things I am very excited about in technology is **Enscripten**, and asm.js. So, Enscripten is *transpiler*, that allows you to take a C or C++, or even Python, or Lua, or other scripting language program, and it allows you to compile it into JavaScript. This allows us to take a lot of existing free software, and run it in the browser. It should be possible to take TTFAutohint, and have that hinting process done as part of a web application.
+And one of the things I am very excited about in technology is **Enscripten**, and asm.js. So, Enscripten is a *transpiler*, that allows you to take a C or C++, or even Python, or Lua, or other scripting language program, and it allows you to compile it into JavaScript. This allows us to take a lot of existing free software, and run it in the browser. It should be possible to take TTFAutohint, and have that hinting process done as part of a web application.
 
 **MS** – as part of Metapolator, or whatever?
 

@@ -31,7 +31,7 @@ More recently, I conducted web-based interviews with Libre Graphics Magazine (co
 Manuel Schmalstieg,   
 September 2016
 
-## About the author
+## About the author
 
 Manuel Schmalstieg is an artist, designer and educator, operating in the area between free software communities and hacker culture. Studies in Geneva (ESBA / atelier zero1) and Krakow (Academy of Fine arts / animated film department). Founder of publishing house Greyscale Press in 2008. Currently teaching webdesign at Eracom (Lausanne) and powering the InfoLab at HEAD (Geneva).
 

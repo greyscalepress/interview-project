@@ -1,6 +1,6 @@
 # Pandoc FAQ
 
-### Turning off hyphenation
+### Turning off hyphenation
 
 http://tex.stackexchange.com/questions/5036/how-to-prevent-latex-from-hyphenating-the-entire-document
 
@@ -19,7 +19,7 @@ Solution: use this rule:
 
 Note: it must be declared after the Polyglossia package has been loaded. Declaring it at line 250 works fine.
 
-### Styling chapter titles
+### Styling chapter titles
 
 https://www.sharelatex.com/learn/Sections_and_chapters
 
@@ -45,8 +45,8 @@ where [<shape>] and [<after-code>] are optional parameters, and:
 <before-code> is code preceding the title body.
 <after-code> is code following the title body.
 
-### Set fonts
-	
+### Set fonts
+
 To set document-wide fonts, use \setmainfont, \setsansfont and \setmonofont.
 
 Also, setromanfont

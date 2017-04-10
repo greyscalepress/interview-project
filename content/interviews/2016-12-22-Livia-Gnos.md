@@ -35,7 +35,7 @@ https://dollarmambo.bandcamp.com/album/double-spirale
 
 C'est ainsi qu'on est arrivé par hasard à Okayama, parce que j'ai trouvé par hasard cette maison où il y avait un piano. Via une maison online qui m'a amené à AirBnb. On est resté trois semaines dans ce petit village perdu, entre rizières et forêt de bambou, où on est retourné maintenant.
 
-Dans ce village, il y avait un "Culture Center", avec une salle de répétition et un grand piano à queue, et d'autres salles où ils font différents cours. Et donc Stéphane a pu jouer un bon piano à queue, et il a rencontré (Tshu-Tshi) qui est un batteur de Taiko, le tambour traditionnel du Japon, avec qui il a développé une collaboration.
+Dans ce village, il y avait un "Culture Center", avec une salle de répétition et un grand piano à queue, et d'autres salles où ils font différents cours. Et donc Stéphane a pu jouer un bon piano à queue, et il a rencontré Joji Konishi, qui est un batteur de Taiko, le tambour traditionnel du Japon, avec qui il a développé une collaboration.
 
 D'où cette invitation à revenir dans ce village, où on a fait un workshop pour les enfants, en improvisation libre en musique et en dessin abstrait. Et avec une expo et un concert.
 

@@ -1,12 +1,12 @@
 #!/bin/bash
 
-## Purpose of this script
+## Purpose of this script
 
 ## Select all files in the folder /content/fr
 ## Save them to the folder /temp/
 
-## 1: We declare some variables
-## removing Talks for now ../content/talks/*.*
+## 1: We declare some variables
+## removing Talks for now ../content/talks/*.*
 
 INPUT="../content/meta.txt ../README.md ../content/interviews/*.md"
 INPUT+=" ../content/appendix/*.md" 
@@ -52,14 +52,14 @@ END {
 ## Inconsesi
 ## "Breite Grotesk"
 ## "Work Sans"
-## "Archivo Narrow"
-## "Sophia Nubian"
-## "Limousine" - by OSP Foundry
+## "Archivo Narrow"
+## "Sophia Nubian"
+## "Limousine" - by OSP Foundry
 ## Monoid - by Andreas Larsen
-## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co. ... HKGroteskPro-Bold ... HKSerif-Bold ... HKGrotesk-Italic ... HKSerif-Italic
+## HK Grotesk - by Alfredo Marco Pradil, Hanken Design Co. ... HKGroteskPro-Bold ... HKSerif-Bold ... HKGrotesk-Italic ... HKSerif-Italic
 
 pandoc -f markdown --template=../templates/custom $TEMP \
-	--latex-engine=xelatex \
+    --latex-engine=xelatex \
     --variable mainfont="HKSerif-Regular" \
     --variable boldfont="HKGroteskPro-Bold" \
     --variable italicfont="HKGrotesk-Italic" \
