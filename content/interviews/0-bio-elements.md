@@ -18,7 +18,7 @@ summer: Ticino - writing/coding R.A.M., analyzing NN emails, working on ONYX –
 
 **2004:** January: Geneva, meeting Karkowski at Cave12 – February: travel for NN interviews (Brussels, Rotterdam, Amsterdam, Berlin) – Organization of the Balkan Tour – April: N3krozoft Balkan Promenade, LOL in Belgrade. – June: LOL exhibit in Paris (w/ Cédric and 10111) – October: LOL exhibit at Plug.In (w/ Goulart and 10111).
 
-**2005:** January: LOL CD-ROM programming – march: LOL @ Neue Kunst Halle St-Gallen w/ Jonas R. – Summer: travel to Serbia + Kosovo (Dokufest, interview w/ Igor Stromajer) – october: travel to Rome (interview w/ Domiziana Giordano).
+**2005:** January: LOL CD-ROM programming – march: LOL @ Neue Kunst Halle St-Gallen w/ Jonas R. – Summer: travel to Serbia + Kosovo (Dokufest, interview w/ Igor Stromajer) – october: travel to Rome (interview w/ Domiziana Giordano). Translation work for archeology project, Rome (texts by Edmund Büchner, "Horologium Solarium Augusti").
 
 **2006:** January: creation of "N3krozoft Annual Report 2005" – May: creating "NO SIGNAL" video sequences – may-june: Babel Project Bucharest (Workshop) – planning LZW algorithm event (August) – summer: NO SIGNAL screened in Geneva train station – Summer: travel to Riga, WAVES conference. – November: BLACKBOX:GVA performed at Spoutnik. – December-January: work on blackbox video remix.
 
