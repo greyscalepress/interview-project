@@ -1,12 +1,10 @@
 # The Interview Project - Todo
 
-RFC (Request For Coffee): weekly interview session in cafés. 
+RFC (Request For Coffee): irregular interview sessions in cafés. 
 
 Write a "terms and conditions" document.
 
-Existing: self-interviews (recordings)
-
-People to interview:
+People to interview maybe:
 
 - former etoy members
 - Alejo Duque
@@ -29,12 +27,12 @@ This is a request for ...
 
 Existing interviews, transcribe and add:
 
-- self interview on NN project, 2004.
-- part of Givan Bela interview.
+- self interview on NN project, 2004 (with Gabin Noir).
+- parts of Givan Bela interview.
 - NN interviews with Igor Stromajer, Domiziana Giordano.
-- 24h recording
+- parts of 24h recording
 
-Accounts of missed interview opportunities:
+Write accounts of missed interview opportunities:
 - OSP in Madrid (talk with Pierre, on Open Design discourse)
 - Sebastian Luetger at Books in Browsers.
 
@@ -53,7 +51,7 @@ Appendix A: Talks
 - 2015: Fahrenheit
 - 2016: ELIF
 
-Appendix B: On music - music reviews
+Appendix B: On music - music reviews?
 
 - Emika
 - Crystal Castles
