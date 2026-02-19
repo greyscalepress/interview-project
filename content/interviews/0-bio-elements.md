@@ -56,7 +56,7 @@ Release of libre Graphics Magazine 2.3 (Type Issue). –
 March: running *BookLab* workshop at Fahrenheit39, Ravenna. – 
 Editing the *Manifestos For The Internet Age* reader. – 
 June: attending WordCamp Lyon – 
-NIFFF, creating an interactive installation with HE-Arc (Kinetoscope). – 
+NIFFF, creating an interactive installation for NIFFF and HE-Arc (Kinetoscope). – 
 Autumn: working on the KinoGeneva website with Julien Roby.
 
 **2016:** 
@@ -77,28 +77,43 @@ June: Wikipedia workshop at ERACOM, with Loraine Furter. –
 September: Attending WordCamp Bern.
 
 **2018** 
-March: launching AR-AD.ch, documentation platform on art+design history – 
-Launching designbriefs.ch, a repository of assignments in design education. – 
+March: launching *AR-AD.ch*, documentation platform on art+design history – 
+Launching *Designbriefs.ch*, a repository of assignments in design education. – 
 Spring: developing *MetaDrive*, interactive installation with Swann Thommen, for HE-Arc – 
-Eracom: Oblique Strategies project, with Aurélie Camuset. – 
+Eracom: *Oblique Strategies* project, with Aurélie Camuset. – 
 EAA La Chaux-de-Fonds, running a design tools survey. –
 June: visit at  Schule für Gestaltung Basel. -
 September: WordCamp Lausanne, moderating a multi-lingual panel, bringing a group of students to the Contributor day at EPFL. –
 December: talk at the Center for Future Publishing, Geneva.
 
 **2019** 
-September: Attending WordCamp Zurich.
+Summer: new job as Head Teacher at Eracom, ending work for HEAD. - 
+September: Attending WordCamp Zurich. - 
+Studies: Beginning of three-year study in pedagogy at HEFP (2019-2022).
+
+**2020**
+March: COVID-19 happens. Experiencing three months of remote teaching. 
 
 **2021**
-Wikipedia editing: travail sur les biographies de Peter Rehberg (décédé en 2021) et Mika Vainio (décédé en 2017). 
+Wikipedia editing: work on biographies of Peter Rehberg (who died in 2021) and Mika Vainio (who died in 2017). -
+Studies: beginning final year of studies at HEFP.
+
+**2022**
+March: organizing a workshop on SCRUM agile methods for Eracom teachers. - 
+Summer: end of my studies at HEFP. -  
+August: teaching a course on creativity (collab with Livia Gnos). -
+September-December: recording ten episodes for "DebugTV" Youtube-channel with Adrien Cater. - 
+October: designing a weekly type design newsletter.
 
 **2023** 
 April: Attending WordCamp Switzerland, in Murten (Centre Loewenberg). - 
+Summer: travel to Vienna. - 
 Wikipedia editing: work on biographies of Zbigniew Karkowski, BJ Nilsen, Caterina Barbieri.
 
 **2024**
+Feburary: Interview with Evelyn Sucher, typographer and former teacher. - 
 Attending the WordPress Switzerland Community Day, in Murten. - 
-Wikipedia editing: work on biographies of Florian Hecker, KMRU, Lucy Railton, video games *Citizen Sleeper* and *In Other Waters*, the novel *Double*.
+Wikipedia editing: work on biographies of Florian Hecker, KMRU, Lucy Railton, the video games *Citizen Sleeper* and *In Other Waters*, the novel *Double*.
 
 **2025**
 April: travel to Japan. 
