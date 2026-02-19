@@ -205,7 +205,7 @@ I would love to see a *Silkroad* — like the illegal Tor-based anonymous market
 
 A *Mesh Network* of booksellers. It would be interesting to talk about this with Alessandro Ludovico. We discussed a bit during the break. He has the same idea in a more precise way. Having booksellers organizing themselves by a powerful software buying system that would be targeted, not to have another giant silo, but to put in contact small local book-selling places.
 
-The *Digital Touch Publishing Tool Kit*. Everybody wants it. Everybody has a different idea of how it should work.
+The *Digital Book Publishing Tool Kit*. Everybody wants it. Everybody has a different idea of how it should work.
 
 For sure, it should be command-line-based, so that you can automate everything. You don’t want to be blocked by the user interface, especially if you want to produce 300,000 books in one step.
 
@@ -225,6 +225,6 @@ That’s the main points. Thank you.
 
 by Arie Altena, in: *Off the Press, Report I*, May 25 2014, http://ariealt.net/2014/05/25/off-the-press-report-i/
 
-“The last presentation I see is by Greyscales’ Manuel Schmalstieg – *Black Holes in the Gutenberg Galaxy*. He starts with the idea of the flip-flop: going from digital to analog and back. He made a couple of printed editions, sometimes pirated – for instance Neal Stephenson’s essay from Wired on the undersea cable, with new illustrations. He aggregated a novel from texts written by various ghost writers. He made the edition ‘In Conversation with Julian Assange.’ Some of these book remained undercover, as they were pirate editions, and rights were not acquired. His most successful publication is a book with transcriptions of talks by Jacob Appelbaum, – a book which can be added to every time a new talk is transcribed. He ends with on overview of spam publishing – which very nicely complements the presentation by TraumaWien.”
+“The last presentation I see is by Greyscales’ Manuel Schmalstieg – *Black Holes in the Gutenberg Galaxy*. He starts with the idea of the flip-flop: going from digital to analog and back. He made a couple of printed editions, sometimes pirated – for instance Neal Stephenson’s essay from Wired on the undersea cable, with new illustrations. He aggregated a novel from texts written by various ghost writers. He made the edition ‘In Conversation with Julian Assange.’ Some of these books remained undercover, as they were pirate editions, and rights were not acquired. His most successful publication is a book with transcriptions of talks by Jacob Appelbaum – a book which can be added to every time a new talk is transcribed. He ends with an overview of spam publishing – which very nicely complements the presentation by TraumaWien.”
 
 ***
