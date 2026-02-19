@@ -37,16 +37,51 @@ Editing *La Décimation* w/ Catherine Lenoble. –
 December: Lorient, conference on Greyscale Press. – 
 Visit at the BNF, Paris (first step of Lumière project). December: attending WJ-Spots event @iMal, meeting Florian Cramer, Josephine Bosma.
 
-**2012:** March: drafting font specimen book concept. – April-May: *Obsessive Notebooks* workshop @HEAD. – May: FLOSS Manuals Booksprint on libre VJ tools. – June: designing Aether9 Book with OSP in Brussels. – July: talk on Open Fonts at RMLL. – August: attending FontForge workshop in Lurs. – Talk at WordPress Meetup Zurich. – November: Greyscale Press work presentation at @PTT, Geneva.
+**2012:** 
+March: drafting font specimen book concept. – April-May: *Obsessive Notebooks* workshop @HEAD. – May: FLOSS Manuals Booksprint on libre VJ tools. – June: designing Aether9 Book with OSP in Brussels. – July: talk on Open Fonts at RMLL. – August: attending FontForge workshop in Lurs. – Talk at WordPress Meetup Zurich. – November: Greyscale Press work presentation at @PTT, Geneva.
 
-**2013:** January: attending WordCamp Paris, lightning talk, codex translation. – February: type specimen design workshop @ HEAD Geneva. – April: attending LGM in Madrid, giving talk on *Eve Future* (+ lightning talk on Scribus GUI) – Workshop @ EAA La Chaux-de-Fonds (specimen book) – May: Porto, LGRU meeting. Talk for opening of "Books with an attitude". – June: *Open Graphics Night* w/ Ale Rimoldi @Dock18 – 
+**2013:** 
+January: attending WordCamp Paris, lightning talk, codex translation. – February: type specimen design workshop @ HEAD Geneva. – April: attending LGM in Madrid, giving talk on *Eve Future* (+ lightning talk on Scribus GUI) – Workshop @ EAA La Chaux-de-Fonds (specimen book) – May: Porto, LGRU meeting. Talk for opening of "Books with an attitude". – June: *Open Graphics Night* w/ Ale Rimoldi @Dock18 – 
 September: publishing *Mann ohne Eigenschaften* with Dock18. – 
 Talking at *Books in Browsers* conference, San Francisco. – Release of Jacob Appelbaum transcripts. – November: talk on Lumiere Project at Free Culture event, Rotterdam.
 
-**2014:** April: attending Libre Graphics Meeting in Leipzig. – Conducting interviews for Libre Graphics Magazine. – May: talking at WordCamp Switzerland, Zurich, and at *Off the Press* conference, Rotterdam. Meeting Silvio Lorusso, Alessandro Ludovico.
+**2014:** 
+April: attending Libre Graphics Meeting in Leipzig. – 
+Conducting interviews for Libre Graphics Magazine. – 
+May: talking at WordCamp Switzerland, Zurich, and at *Off the Press* conference, Rotterdam. Meeting Silvio Lorusso, Alessandro Ludovico.
 
-**2015:** January: attending WordCamp Paris (3rd time). – Release of libre Graphics Magazine 2.3 (Type Issue). – March: running *BookLab* workshop at Fahrenheit39, Ravenna. – Editing the *Manifestos For The Internet Age* reader. – June: WordCamp Lyon – NIFFF, interactive installation with HE-Arc (Kinetoscope).
+**2015:** 
+January: attending WordCamp Paris (3rd time). – 
+Release of libre Graphics Magazine 2.3 (Type Issue). – 
+March: running *BookLab* workshop at Fahrenheit39, Ravenna. – 
+Editing the *Manifestos For The Internet Age* reader. – 
+June: WordCamp Lyon – 
+NIFFF, interactive installation with HE-Arc (Kinetoscope). – 
+Autumn: working on the KinoGeneva website with Julien Roby.
 
-**2016:** January: WordCamp Paris – March: talking at ELIF conference, Lyon – Workshop at EAA Chaux-de-Fonds – July: taking part in 50JPG exhibition, meeting Google artists. – Launching online course materials: cours-web.ch – June: launching new book, *The Interview Project*. – November: working with Sedat A. on new book: *Faire*...
+**2016:** 
+January: WordCamp Paris – 
+February: taking part in Art+Feminism Wikipedia sprint, visiting Silvie Defraoui, with Clovis Durand and Barbara Fédier. – 
+March: talking at ELIF conference, Lyon – 
+Workshop at EAA Chaux-de-Fonds – 
+July: taking part in 50JPG exhibition, meeting Google artists. – 
+Launching online course materials: cours-web.ch – 
+June: launching new book, *The Interview Project* (yes, the book you're holding!). – 
+November: working with Sedat A. on new book: *Faire*... – 
+WordCamp Geneva, coordinating video recordings. –
+December: building website for Gabriela Loeffel.
+
+**2017** 
+KinoGeneva website, with Natascha Michel.
+June: Wikipedia workshop at ERACOM, with Loraine Furter. – 
+
+**2018** 
+March: launching AR-AD.ch, documentation platform on art+design history – 
+Launching designbriefs.ch, a repository of assignments in design education. – 
+Spring: developing MetaDrive, interactive installation with Swann Thommen, for HE-Arc – 
+Eracom: Oblique Strategies project, with Aurélie Camuset. – 
+EAA La Chaux-de-Fonds, running a design tools survey.
+September: WordCamp Lausanne, moderating multi-lingual panel.
+
 
 
